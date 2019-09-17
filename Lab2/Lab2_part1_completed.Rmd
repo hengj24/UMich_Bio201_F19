@@ -76,8 +76,12 @@ RStudio is divided into 4 “Panes”: the Source for your scripts and documents
 One of the advantages of using RStudio is that all the information you need to write code is available in a single window. Additionally, with many shortcuts, autocompletion, and highlighting for the major file types you use while developing in R, RStudio will make typing easier and less error-prone.
 
 What am I interested in asking for the course project?
+<<<<<<< HEAD
 
 ##### <span style="color:red"> __*I am curious about how fast the general composition of a microbiome can change.*__ </span> 
+=======
+### <span style="color:red"> *I am curious about how fast the general composition of a microbiome can change.* </span>
+>>>>>>> aab1cd49c6d2c99d8660cd86749bd920cf285dce
 
 ```{r}
 

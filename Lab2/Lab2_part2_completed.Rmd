@@ -7,14 +7,14 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = "~/Documents/UMich_Bio201_F19/Lab2/")
+knitr::opts_knit$set(root.dir = "Users/Jules/Documents/UMich_Bio201_F19/Lab2/")
 ```
 
 # Interacting with R
 
 ### Overview
 
-The basis of programming is writing (coding) instructions for the computer to follow, and then telling the computer to follow (running or executing) those instructions. The instructions (commands) are coded R because it is a common language that both the computer and we can understand. There are two main ways of interacting with R: by using the console or by using script files (plain text or markdown files that contain your code). The console pane (in RStudio, the bottom left panel) is the place where commands written in the R language can be typed and executed immediately by the computer. It is also where the results will be shown for commands that have been executed. You can type commands directly into the console and press Enter to execute those commands, but they will be forgotten when you close the session.
+The basis of programming is writing( coding) instructions for the computer to follow, and then telling the computer to follow (running or executing) those instructions. The instructions (commands) are coded R because it is a common language that both the computer and we can understand. There are two main ways of interacting with R: by using the console or by using script files (plain text or markdown files that contain your code). The console pane (in RStudio, the bottom left panel) is the place where commands written in the R language can be typed and executed immediately by the computer. It is also where the results will be shown for commands that have been executed. You can type commands directly into the console and press Enter to execute those commands, but they will be forgotten when you close the session.
  
 Researchers want code and workflows to be reproducible, so it is better to type the commands in the script editor, and save the script. This way, there is a complete record, and anyone (including our future selves) can easily replicate the results.
  
@@ -279,26 +279,34 @@ You’ve probably noticed that objects of different types get converted into a s
 # Build a vector of the study semesters: 
 study_semesters <- c("Winter 2015", "Fall 2015", "Winter 2016", "Fall 2016", "Winter 2017", "Fall 2017", "Winter 2018", "Fall 2018", "Winter 2019", "Fall 2019")
 # Build a vector where the supplements consumed matches the order of the study semesters: 
-supplements_during_study_semester <- c("RPS", "RMS, RPS, Inulin, Arabinoxylan", "Psyllium", "")
+supplements_during_study_semester <- c("RPS", "RMS, RPS, Inulin, Arabinoxylan", "Psyllium", "RPS", "RMS, Inulin, Accessible", "RPS, HiMaize, banana", "HiMaize", "RPS, RMS", "RPS", "RPS, oat, rice, potato")
 # What type are each of these? character vectors
 
 ```
 
 ```{r}
 # Build a vector of the typical age of college students:
-
+typical_college_student_age_years <- c(18, 19, 20, 21)
 # Confirm this is numeric
-
+str(typical_college_student_age_years) #Confirmed
 # Convert this vector to character:
+typical_college_student_age_years_character <- c("18", "19", "20", "21")
+
 ```
 
 
 ```{r}
 # Calculate the mean pH for each participant below, round to 2 digits. Evaluate if these values equal.
 
-pH_1 <- c("7.75", "6", "7.5", "8", "7.75")
+pH_1 <- c(7.75, 6, 7.5, 8, 7.75)
+mean(pH_1, digits = 2)
 
-pH_2 <- c("8", "7.25", "7.25", "7.75", "7.5", "7.25")
+pH_2 <- c(8, 7.25, 7.25, 7.75, 7.5, 7.25)
+mean(pH_2, digits = 2)
+
+mean(pH_1, digits = 2) != mean(pH_2, digits = 2) #True
+
+#These values do not equal
 
 ```
 

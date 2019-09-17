@@ -77,11 +77,17 @@ One of the advantages of using RStudio is that all the information you need to w
 
 What am I interested in asking for the course project?
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ##### <span style="color:red"> __*I am curious about how fast the general composition of a microbiome can change.*__ </span> 
 =======
 ### <span style="color:red"> *I am curious about how fast the general composition of a microbiome can change.* </span>
 >>>>>>> aab1cd49c6d2c99d8660cd86749bd920cf285dce
+=======
+
+##### <span style="color:red"> __*I am curious about how fast the general composition of a microbiome can change.*__ </span> 
+
+>>>>>>> c31817719e19dc31347eaeb80b14afb6f3fd4d28
 
 ```{r}
 

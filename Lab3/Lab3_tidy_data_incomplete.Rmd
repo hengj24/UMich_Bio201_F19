@@ -328,11 +328,12 @@ Import the scfa_wkly data from the Excel file. Complete the following QC measure
 ```{r}
 scfa_wkly_qc <- read_excel("raw_data/SCFA_data.xlsx")%>%
   rename_all(tolower) %>% 
+  rename(acetate_mm = ace, butyrate_mm = but, propionate_mm = pro) %>% 
   filter(study_week == "week1" | study_week == "week3") %>% 
   filter(quantity_compliant == "yes") %>% 
-  mutate(total_scfa = ace + but + pro) %>% 
-  mean(total_scfa) %>% 
-  median(total_scfa)
+  mutate(acetate_mm = as.numeric(acetate_mm), butyrate_mm = as.numeric(butyrate_mm), propionate_mm = as.numeric(propionate_mm))%>%
+  mutate(total_scfa = acetate_mm + butyrate_mm + propionate_mm) %>% 
+  mean(na.rm = T)
   
 
 ```

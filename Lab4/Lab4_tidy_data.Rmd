@@ -1,6 +1,6 @@
 ---
 title: 'Lab 4: Tidy data part 2'
-author: "Kristi Gdanetz MacCready"
+author: "Julie Heng"
 date: "9/30/2019"
 output: html_document
 ---
@@ -21,7 +21,7 @@ set.seed(7)
 # Import data
 Import the curated dataset we generated last week, verify that all column names are in snake case, and any measurements include units. 
 ```{r}
-scfa_data <- read_delim(file = "Lab3/curated_data/scfa_indv_qc.txt",
+scfa_indv_data <- read_delim(file = "/Users/Jules/Documents/UMich_Bio201_F19/Lab3/curated_data/scfa_indv_qc.txt",
                         delim = "\t", col_names = TRUE, trim_ws = TRUE, 
                         na = c("", "NA")) %>%
   rename_all(tolower)
@@ -108,6 +108,12 @@ Apply the group and summarise functions to determine the mean concentration of a
 
 ```{r}
 # write code here
+scfa_indv_summary1 <- scfa_indv_data %>% 
+  filter(!is.na(acetate_mmol_kg)) %>%
+  group_by(participant_id, study_week) %>%
+  summarize(mean_acetate = mean(acetate_mmol_kg),
+            mean_butyrate = mean(butyrate_mmol_kg),
+            mean_propionate = mean(propionate_mmol_kg))
 
 ```
 
@@ -133,17 +139,17 @@ spread() takes three principal arguments:
 Optional arguments include ‘fill’ which, if included, fills in missing values with the value provided. Use spread() to widen the data frame by study week. Inspect the result, can you determine what happened here? 
 
 ```{r}
-scfa_wkly %>%
+scfa_indv_summary1 %>%
   spread(key = study_week, value = mean_butyrate)
 ```
 
 View the output, notice there are a lot of NAs and extra weeks (week 4 & 5). To simplify the output, filter by SCFA of interest before spreading. We use filter() and select() to subset our data to observations and variables of interest. We use the pipes as before too.
 
 ```{r}
-scfa_wkly %>%
-  select(participant_id, semester, supplement_consumed, study_week, mean_butyrate) %>% #keep only columns of interest
+scfa_wkly_qc %>%
+  select(participant_id, semester, supplement_consumed, study_week, butyrate_mean_mmol_kg) %>% #keep only columns of interest
   filter(study_week == "week1" | study_week == "week3") %>% #keep only weeks of interest
-  spread(study_week, mean_butyrate) #widen data frame
+  spread(study_week, butyrate_mean_mmol_kg) #widen data frame
 ```
 
 Notice there are some rows containing NAs, we cannot calculate a difference if the data for one of the weeks are missing, remove those using na.omit() on these columns. 
@@ -151,10 +157,10 @@ Notice there are some rows containing NAs, we cannot calculate a difference if t
 This yields a data frame where the observations for each week are spread across multiple columns. Now use mutate to calculate the difference between weeks, and save as a new data frame.
 
 ```{r}
-butyrate_wide <- scfa_wkly %>%
-  select(participant_id, semester, supplement_consumed, study_week, mean_butyrate) %>% #drop extra columns
+butyrate_wide <- scfa_wkly_qc %>%
+  select(participant_id, semester, supplement_consumed, study_week, butyrate_mean_mmol_kg) %>% #drop extra columns
   filter(study_week == "week1" | study_week == "week3") %>% #drop extra weeks
-  spread(study_week, mean_butyrate) %>% #convert to wide format
+  spread(study_week, butyrate_mean_mmol_kg) %>% #convert to wide format
   na.omit(week1, week3) %>% #drop NAs from select columns
   mutate(delta_butyrate = week3 - week1) #calculate difference 
 
@@ -165,11 +171,27 @@ head(butyrate_wide)
 Create a wide data frame for the other SCFAs.
 ```{r}
 # copy+paste and edit code chunk for acetate
+acetate_wide <- scfa_wkly_qc %>%
+  select(participant_id, semester, supplement_consumed, study_week, acetate_mean_mmol_kg) %>% 
+  filter(study_week == "week1" | study_week == "week3") %>% 
+  spread(study_week, acetate_mean_mmol_kg) %>% 
+  na.omit(week1, week3) %>% 
+  mutate(delta_acetate = week3 - week1) 
+
+head(acetate_wide)
 
 ```
 
 ```{r}
 # copy+paste and edit code chunk for propionate
+propionate_wide <- scfa_wkly_qc %>%
+  select(participant_id, semester, supplement_consumed, study_week, propionate_mean_mmol_kg) %>% 
+  filter(study_week == "week1" | study_week == "week3") %>% 
+  spread(study_week, propionate_mean_mmol_kg) %>% 
+  na.omit(week1, week3) %>% 
+  mutate(delta_propionate = week3 - week1) 
+
+head(propionate_wide)
 
 ```
 
@@ -177,19 +199,61 @@ Create a wide data frame for the other SCFAs.
 We are interested in the average difference of fecal butyrate by supplement type, how would you do this? 
 ```{r}
 # write code here
+butyrate_wide_delta <- butyrate_wide %>% 
+  group_by(supplement_consumed) %>% 
+  summarize(mean_delta_butyrate = mean(delta_butyrate))
+
 ```
 
 Repeat this process for each SCFA. How would you plot your results? 
 ```{r}
 # copy+paste and edit code chunk for acetate
+acetate_wide_delta <- acetate_wide %>% 
+  group_by(supplement_consumed) %>% 
+  summarize(mean_delta_acetate = mean(delta_acetate))
 ```
 
 ```{r}
 # copy+paste and edit code chunk for propionate
+propionate_wide_delta <- propionate_wide %>% 
+  group_by(supplement_consumed) %>% 
+  summarize(mean_delta_propionate = mean(delta_propionate))
 ```
 
 ```{r}
 # copy+paste and edit code chunks for plots
+acetate_plot_1 <- acetate_wide_delta %>%
+    ggplot(aes(x = supplement_consumed, 
+             y = mean_delta_acetate)) +
+  geom_point(aes(color = supplement_consumed)) +
+  labs(title = "Mean acetate concentration",
+       x = "Supplement consumed",
+       y = "Mean change in acetate (mmol/kg)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1), legend.position = "none")
+
+acetate_plot_1
+
+butyrate_plot_1 <- butyrate_wide_delta %>%
+    ggplot(aes(x = supplement_consumed, 
+             y = mean_delta_butyrate)) +
+  geom_point(aes(color = supplement_consumed)) +
+  labs(title = "Mean butyrate concentration",
+       x = "Supplement consumed",
+       y = "Mean change in butyrate (mmol/kg)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1), legend.position = "none")
+    
+butyrate_plot_1
+
+propionate_plot_1 <- propionate_wide_delta %>%
+    ggplot(aes(x = supplement_consumed, 
+             y = mean_delta_propionate)) +
+  geom_point(aes(color = supplement_consumed)) +
+  labs(title = "Mean propionate concentration",
+       x = "Supplement consumed",
+       y = "Mean change in propionate (mmol/kg)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1), legend.position = "none")
+    
+propionate_plot_1
 ```
 
 These plots are fine, however they could be graphed more efficiently with facets. This introduces a new problem: combining data frames.

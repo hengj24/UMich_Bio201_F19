@@ -1,0 +1,7 @@
+study_week	scfa	mean_scfa
+week1	acetate	42.51592920353983
+week1	butyrate	11.808141592920354
+week1	propionate	9.146593406593407
+week3	acetate	44.830840707964605
+week3	butyrate	12.628495575221239
+week3	propionate	9.83945054945055

@@ -236,7 +236,7 @@ acetate_plot_1
 butyrate_plot_1 <- butyrate_wide_delta %>%
     ggplot(aes(x = supplement_consumed, 
              y = mean_delta_butyrate)) +
-  geom_point(aes(color = supplement_consumed)) +
+  geom_point(aes(color = supplement_consumed), shape = "triangle") +
   labs(title = "Mean butyrate concentration",
        x = "Supplement consumed",
        y = "Mean change in butyrate (mmol/kg)") +
@@ -247,7 +247,7 @@ butyrate_plot_1
 propionate_plot_1 <- propionate_wide_delta %>%
     ggplot(aes(x = supplement_consumed, 
              y = mean_delta_propionate)) +
-  geom_point(aes(color = supplement_consumed)) +
+  geom_point(aes(color = supplement_consumed), shape = "square") +
   labs(title = "Mean propionate concentration",
        x = "Supplement consumed",
        y = "Mean change in propionate (mmol/kg)") +
@@ -279,6 +279,7 @@ n_distinct(propionate_wide$participant_id)
 ```
 
 Execute an inner join and check the results. Check the column names of the resulting data frame. Discuss with your neighbor, what issues do you see? 
+
 ```{r}
 # execute join
 join1 <- inner_join(acetate_wide, butyrate_wide,
@@ -288,6 +289,8 @@ nrow(join1)
 n_distinct(join1$participant_id)
 # check column names
 colnames(join1)
+
+#There are overlapping variable names
 ```
 
 Before joining, rename the week columns for each SCFA so each is unique. We also need to update the grouping variables within the join function so we do not duplicate the categorical participant information. 
@@ -339,19 +342,62 @@ colnames(join3)
 Part 1: Update the column names of the three SCFA wide data frames and join to one new data frame called `total_scfas`. Use nrow() and n_distinct() to help you decide the type of join. Calculate the weekly total SCFA for each participant, calculate the difference in total SCFA across weeks.
 ```{r}
 # write code here
+total_scfas <- inner_join(acetate_wide, butyrate_wide, 
+                        by = c("participant_id", "semester", "supplement_consumed")) %>% 
+  full_join(propionate_wide,
+            by = c("participant_id", "semester", "supplement_consumed")) %>% 
+  mutate(total_wk1 = ace_wk1 + but_wk1 + pro_wk1,
+         total_wk3 = ace_wk3 + but_wk3 + pro_wk3,
+         delta_total = total_wk3 - total_wk1)
 
+nrow(total_scfas)
+n_distinct(total_scfas$participant_id)
 ```
 
 Part 2: Plot the change in total SCFA for each supplement, faceting for each semester. Clean up the axes and labels. Extra challenge: Can you use pipes to execute Parts 1 and 2 as one long command?
 ```{r}
 # write code here
 
+scfa_change_plot <- total_scfas %>%
+  ggplot(aes(x = participant_id, 
+             y = delta_acetate)) +
+  geom_point(aes(color = semester)) +
+  facet_grid(~semester) +
+  labs(title = "Mean change in SCFAs",
+       x = "Individuals",
+       y = "Change in SCFAs (mmol/kg)") +
+  theme(axis.text.x = element_blank(),
+          legend.position = "bottom")
+
+  scfa_change_plot
+
+#Extra challenge
+
+scfa_change_plot <- (total_scfas <- inner_join(acetate_wide, butyrate_wide, 
+                        by = c("participant_id", "semester", "supplement_consumed")) %>% 
+  full_join(propionate_wide,
+            by = c("participant_id", "semester", "supplement_consumed")) %>% 
+  mutate(total_wk1 = ace_wk1 + but_wk1 + pro_wk1,
+         total_wk3 = ace_wk3 + but_wk3 + pro_wk3,
+         delta_total = total_wk3 - total_wk1) %>%
+  ggplot(aes(x = participant_id, 
+             y = delta_acetate)) +
+  geom_point(aes(color = semester)) +
+  facet_grid(~semester) +
+  labs(title = "Mean change in SCFAs",
+       x = "Individuals",
+       y = "Change in SCFAs (mmol/kg)") +
+  theme(axis.text.x = element_blank(),
+          legend.position = "bottom")
+
+  scfa_change_plot
+
 ```
 
 
 ### Gather
 
-Often collaborators collect and enter data in a wide formatted spreadsheet, which is understandable since it is a little easier for humans to read, however we need the data in long format for analysis. Additionally, after the differences were calculated and the wide data frames were joined (just completed in the section above), we need to return the data frame to long format to use facets for multiple SCFAs (all SCFA measurments should be in one column with an column describing the type). We can complete this with gather(), the opposite of the spread() function. 
+Often collaborators collect and enter data in a wide formatted spreadsheet, which is understandable since it is a little easier for humans to read, however we need the data in long format for analysis. Additionally, after the differences were calculated and the wide data frames were joined (just completed in the section above), we need to return the data frame to long format to use facets for multiple SCFAs (all SCFA measurements should be in one column with an column describing the type). We can complete this with gather(), the opposite of the spread() function. 
 
 gather() takes four principal arguments:
 
@@ -395,19 +441,30 @@ ace_long <- total_scfas %>%
 ### Homework 4.5 
 ```{r}
 # copy+paste and edit code here to create but_long
-but_long <-
+but_long <- total_scfas %>%
+  select(-starts_with("delta_"), -starts_with("ace_"), -starts_with("pro_"), -starts_with("total")) %>% 
+  rename(week1 = but_wk1,
+         week3 = but_wk3) %>%
+  gather(key = study_week, value = butyrate, week1, week3)
   
 ```
 
 ```{r}
 # copy+paste and edit code here to create pro_long
-pro_long <- 
+pro_long <- total_scfas %>%
+  select(-starts_with("delta_"), -starts_with("but_"), -starts_with("ace_"), -starts_with("total")) %>% 
+  rename(week1 = pro_wk1,
+         week3 = pro_wk3) %>%
+  gather(key = study_week, value = propionate, week1, week3)
   
 ```
 
 Check the dimensions of the three long data frames you just created, select the appropriate type of join, and create a new data frame called scfa_long. 
 ```{r}
-scfa_long <- 
+scfa_long <- inner_join(ace_long, but_long,
+                    by = c("participant_id", "semester", "supplement_consumed", "study_week")) %>% 
+  inner_join(pro_long, 
+              by = c("participant_id", "semester", "supplement_consumed", "study_week"))
 ```
 
 Remember we want one column for study week and one column for the SCFA measurements, so we need to use gather() one more time.
@@ -421,6 +478,9 @@ Now that the data are in long format, calculate the weekly mean for each SCFA pe
 ```{r}
 # copy+paste and edit code here
 wkly_means <- scfa_long %>%
+  group_by(study_week, scfa) %>%
+  summarize(mean_scfa = mean(concentration_mmol_kg, na.rm = TRUE))
+  # mean per every group (by mean and scfa)
   
 ```
 
@@ -446,16 +506,35 @@ Even though we reduced our total numbers of data points (with calculations and f
 
 Save the wide data frame to the curated data directory.
 ```{r}
-write_delim(total_scfas, path = "Lab4/curated_data/total_scfas_wide.txt", delim = "\t")
+write_delim(total_scfas, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/total_scfas_wide.txt", delim = "\t")
 ```
 
 Save the other data frames and plots generated today. Be sure they are placed in the appropriate directories (folders):
 ```{r}
 # for data frames:
-write_delim()
+write_delim(scfa_indv_summary1, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/scfa_indv_summary1.txt", delim = "\t")
+write_delim(acetate_wide, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/acetate_wide.txt", delim = "\t")
+write_delim(butyrate_wide, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/butyrate_wide.txt", delim = "\t")
+write_delim(propionate_wide, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/propionate_wide.txt", delim = "\t")
+write_delim(wkly_means, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/wkly_means.txt", delim = "\t")
 
 # for plots:
-save_plot()
+#complete
+save_plot(filename = "propionate_plot_1.pdf",
+          plot = propionate_plot_1,
+          nrow = 1, ncol = 1, 
+          base_aspect_ratio = 1.1)
+save_plot(filename = "acetate_plot_1.pdf",
+          plot = acetate_plot_1,
+          nrow = 1, ncol = 1, 
+          base_aspect_ratio = 1.1)
+save_plot(filename = "butyrate_plot_1.pdf",
+          plot = butyrate_plot_1,
+          nrow = 1, ncol = 1, 
+          base_aspect_ratio = 1.1)
+save_plot(filename = "scfa_change_plot.pdf",
+          plot = scfa_change_plot,
+          nrow = 1, ncol = 1)
 ```
 
 
@@ -464,48 +543,53 @@ save_plot()
 In preparation for the next section on graphics, we will prepare and export a curated version of the data set. Let’s start by removing participants for which pH and BSS are missing:
 ```{r}
 # import pH data
-pH_data <- read_delim(file = "Lab4/raw_data/pH_indv.txt",
+pH_data <- read_delim(file = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/raw_data/pH_indv.txt",
                         delim = "\t", col_names = TRUE, trim_ws = TRUE, 
                         na = c("", "NA")) %>%
   rename_all(tolower)
 
 # filter to remove bad measurements based on outside list
-pH_bad <- read_delim(file = "Lab4/raw_data/pH_bad.txt",
+pH_bad <- read_delim(file = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/raw_data/pH_bad.txt",
                         delim = "\t", col_names = TRUE, trim_ws = TRUE, 
                         na = c("", "NA")) %>% #import list of samples with date discrepencies 
   rename_all(tolower)
 
 pH_qc <- pH_data %>%
   filter(!sample_id %in% pH_bad$sample_id) %>% #drop samples in bad list
-  group_by() %>%
-  summarise() #calculate weekly average
+  group_by(participant_id, supplement_consumed, study_week) %>%
+  summarise(mean_ph = mean(ph, na.rm = TRUE)) #calculate weekly average
 dim(pH_qc)
 ```
 
 ```{r}
 # import BSS
-BSS_data <- read_delim(file = "Lab4/raw_data/BSS_indv.txt",
+BSS_data <- read_delim(file = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/raw_data/BSS_indv.txt",
                         delim = "\t", col_names = TRUE, trim_ws = TRUE, 
                         na = c("", "NA")) %>%
   rename_all(tolower)
 
 BSS_qc <- BSS_data %>%
   filter(bristol_numeric >= 1 & bristol_numeric <= 7) %>% #filter to remove measurements outside of scale
-  group_by() %>%
-  summarise() #calculate weekly average 
+  group_by(participant_id, supplement_consumed, study_week) %>%
+  summarise(mean_bristol_score = mean(bristol_numeric, na.rm = TRUE)) #calculate weekly average 
 dim(BSS_qc)
+
 ```
 
 Select the appropriate type of join to retain participants with either pH or BSS measurements. 
 ```{r}
-pH_BSS_wkly <- join(pH_qc, BSS_qc,
-                    by = c()) %>%
-  mutate() #round avgs to reflect sig figs
+pH_BSS_wkly <- full_join(pH_qc, BSS_qc,
+                    by = c("participant_id", "supplement_consumed", "study_week")) %>%
+  mutate(mean_pH = round(mean_ph, digits = 2),
+         mean_BSS = round(mean_bristol_score, digits = 2)) %>% #round avgs to reflect sig figs 
+  select(-mean_ph, -mean_bristol_score)
 ```
 
 To make sure that everyone has the same data set, check the number of rows and columns by typing dim().
 ```{r}
 dim(pH_BSS_wkly)
+#five columns including study_week
+colnames(pH_BSS_wkly)
 ```
 If you do not have 748 rows and 4 columns, review your code with your neighbors, can you identify what went wrong?
 

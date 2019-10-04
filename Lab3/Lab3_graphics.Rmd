@@ -30,9 +30,14 @@ ggplot2 functions like data in the ‘long’ format, i.e., a column for every d
 ### Homework 3.4
 ```{r}
 # import curated data set, save as new data frame 
-scfa_qc <- read_delim(file = "curated_data/SCFA_wkly.txt", 
+scfa_qc <- read_delim(file = "curated_data/SCFA_wkly_qc.txt", 
                         delim = "\t", escape_double = FALSE, trim_ws = TRUE, na=c("NA"),
                         col_types = list())
+scfa_wkly_qc <- scfa_qc %>% 
+  rename_all(tolower) %>% 
+  select(-acetate_median, -butyrate_median, -propionate_median, -total_median) %>% 
+  filter(frequency == "2xdaily") %>% 
+  rename(acetate_mean_mmol_kg = acetate_mean, butyrate_mean_mmol_kg = butyrate_mean, propionate_mean_mmol_kg = propionate_mean, total_mean_mmol_kg = total_mean)
 
 # drop median columns
 
@@ -64,7 +69,7 @@ ggplot(data = scfa_qc)
 
 Define a mapping (using the aesthetic (aes) function), by selecting the variables to be plotted and specifying how to present them in the graph, e.g. as x/y positions or characteristics such as size, shape, color, etc.
 ```{r}
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg))
 ```
@@ -80,7 +85,7 @@ geom_col() #for bar graphs, don't confuse with geom_bar()
 
 To add a geom to the plot use the + operator. Because you have two continuous variables, let’s use geom_point() first: 
 ```{r}
-ggplot(data = scfa_qc, #call dataset
+ggplot(data = scfa_wkly_qc, #call dataset
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg)) + #assign data to axes
   	geom_point() #type of plot 
@@ -90,7 +95,7 @@ The + in the ggplot2 package is particularly useful because it allows you to mod
 
 ```{r}
 # Assign plot to a variable
-plot1 <- ggplot(data = scfa_qc, 
+plot1 <- ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg))
 # Draw the plot
@@ -118,7 +123,7 @@ plot1
 Take a look at the ggplot2 cheat sheet, and think of ways you could improve the plot.
 The axis names are informative, however they contain the underscores found in the column names. We can update these and add a title to the figure:
 ```{r}
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg, 
                      color = study_week)) +
@@ -134,7 +139,7 @@ After our manipulations, you may notice that the values on the x-axis are still 
 
 ```{r}
 # flip x and y axes
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg, 
                      color = study_week)) +
@@ -148,7 +153,7 @@ Not much better, eh?
 
 ```{r}
 # change angle of axis labels
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg, 
                      color = study_week)) +
@@ -163,7 +168,7 @@ Rotating on the x-axis isn't really any better than swapping the x- and y- axes.
 In reality the individual particpant IDs are not published in figures for research journals, so let's hide them: 
 ```{r}
 # hide x-axis tick labels
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg, 
                      color = study_week)) +
@@ -175,7 +180,7 @@ ggplot(data = scfa_qc,
 ```
 So the axes are cleaned up, but there are still so many data points here, it is impossible to draw any conclusions. These are some basic manipulations using a scatter plot as an example to improve the basic appearance of a plot. Our issue here is that we didn't choose an optimal plot type for our volume data, what if switch our type of plot?
 ```{r}
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = participant_id, 
                      y = butyrate_mean_mmol_kg, 
                      color = study_week)) +
@@ -185,9 +190,9 @@ ggplot(data = scfa_qc,
          y = "Fecal butyrate (mmol/kg)") +
     theme(axis.text.x = element_blank())
 ```
- ggplot can't make sense of this data structure for a line plot. We have to modifiy the data assigned to each axis, and as mentioned in the error message above, we need to set a group. 
+ ggplot can't make sense of this data structure for a line plot. We have to modify the data assigned to each axis, and as mentioned in the error message above, we need to set a group. 
 ```{r}
-ggplot(data = scfa_qc, 
+ggplot(data = scfa_wkly_qc, 
        mapping = aes(x = study_week, #switch from participant_id
                      y = butyrate_mean_mmol_kg, #remains the same
                      color = supplement_consumed, #switch from study_week
@@ -207,19 +212,55 @@ In the section above you created a figure for just the butyrate data. The data f
 ### Homework 3.5
 Recreate the scatter plot from the above for each SCFA. Identify descriptive axis labels, make each plot a different color. Utilize copy and paste to reduce the amount of typing. Assign each figure to a new object. Website with some named ggplot colors: http://sape.inf.usi.ch/quick-reference/ggplot2/colour 
 ```{r}
-plot_ace <- ggplot()
+plot_ace <- ggplot(data = scfa_wkly_qc, 
+       mapping = aes(x = participant_id, 
+                     y = acetate_mean_mmol_kg, 
+                     color = study_week)) +
+    geom_point(color= "skyblue") +
+    labs(title = "Mean acetate concentrations of individuals",
+         x = "Individuals",
+         y = "Fecal acetate (mmol/kg)") +
+    theme(axis.text.x = element_blank())
+plot_ace
 ```
 
 ```{r}
-plot_but <- ggplot()
+plot_but <- ggplot(data = scfa_wkly_qc, 
+       mapping = aes(x = participant_id, 
+                     y = butyrate_mean_mmol_kg, 
+                     color = study_week)) +
+    geom_point(color= "violet") +
+    labs(title = "Mean butyrate concentrations of individuals",
+         x = "Individuals",
+         y = "Fecal butyrate (mmol/kg)") +
+    theme(axis.text.x = element_blank())
+plot_but
 ```
 
 ```{r}
-plot_pro <- ggplot()
+plot_pro <- ggplot(data = scfa_wkly_qc, 
+       mapping = aes(x = participant_id, 
+                     y = propionate_mean_mmol_kg, 
+                     color = study_week)) +
+    geom_point(color= "gold") +
+    labs(title = "Mean propionate concentrations of individuals",
+         x = "Individuals",
+         y = "Fecal propionate (mmol/kg)") +
+    theme(axis.text.x = element_blank())
+plot_pro
 ```
 
 ```{r}
-plot_tot <- ggplot()
+plot_tot <- ggplot(data = scfa_wkly_qc, 
+       mapping = aes(x = participant_id, 
+                     y = total_mean_mmol_kg, 
+                     color = study_week)) +
+    geom_point(color= "springgreen1") +
+    labs(title = "Mean total SCFA concentrations of individuals",
+         x = "Individuals",
+         y = "Total fecal SCFAs (mmol/kg)") +
+    theme(axis.text.x = element_blank())
+plot_tot
 ```
 
 
@@ -240,22 +281,22 @@ In the section above you created multiple plots, and combined them into one larg
 ### Without facets 
 Subset the data frame for week 1 then week 3 of the study, plot the total SCFA measurements. Notice in the code below we pipe the filtered data frame directly to ggplot. We do not have to create additional dataframes, and use up a lot of memory.
 ```{r}
-plot_wk1 <- scfa_qc %>%
+plot_wk1 <- scfa_wkly_qc %>%
   filter(study_week == "week1") %>%
   ggplot(aes(x = participant_id, 
-             y = total_mmol_kg)) +
-    geom_point(color = "black") +
+             y = total_mean_mmol_kg)) +
+    geom_point(color = "midnightblue") +
     labs(title = "Week 1",
          x = "Individuals",
          y = "Total fecal SCFAs (mmol/kg)") +
     theme(axis.text.x = element_blank(),
           legend.position = "none")
 
-plot_wk3 <- scfa_qc %>%
+plot_wk3 <- scfa_wkly_qc %>%
   filter(study_week == "week3") %>%
   ggplot(aes(x = participant_id, 
-             y = total_mmol_kg)) +
-    geom_point(color = "black") +
+             y = total_mean_mmol_kg)) +
+    geom_point(color = "mistyrose1") +
     labs(title = "Week 3",
          x = "Individuals",
          y = "Total fecal SCFAs (mmol/kg)") +
@@ -272,14 +313,15 @@ We will use the code above as a template to create a scatter plot. We need to pa
 The new function added to the plot code here is “facet_wrap”. Open the help documentation and explore the default behavior and optional arguments.
 
 ```{r}
-plot_f <- scfa_qc %>%
+plot_f <- scfa_wkly_qc %>%
   filter(study_week == "week1" | study_week == "week3") %>%
   ggplot(aes(x = participant_id, 
-             y = total_mmol_kg, 
+             y = total_mean_mmol_kg, 
              study_week, supplement_consumed, semester)) +
   geom_point(aes(color = study_week)) +
   facet_grid(~study_week) + 
-  labs(x = "Individuals",
+  labs(title = "Mean total SCFA concentrations of individuals",
+       x = "Individuals",
        y = "Total fecal SCFAs (mmol/kg)") +
   theme(axis.text.x = element_blank(),
         legend.position = "none")
@@ -290,13 +332,24 @@ plot_f
 Complete any additional customizations to make the figure easy to read. Compare the facetted figure with the version you generated above where each panel was created manually. What differences in the layout of the figure do you notice? Write your answer in the bold block below:
 
 > ** enter answer here ** 
+There is only one label for the x-axis in the facetted figure. The y-axis scale is the same for both panels.
 
 ### Homework 3.6
 Plot the mean butyrate concentration for week 3 versus semester. In this plot, each facet should be one of the supplement types consumed during the study. Modify the plot settings so all labels are descriptive and easy to read. Tip: read the help documentation for facet_grid and modify some of the default arguments. 
 ```{r}
-plot3_6 <- scfa_qc %>%
-  filter() %>%
-  ggplot()
+plot3_6 <- scfa_wkly_qc %>%
+  filter(study_week == "week3") %>%
+  ggplot(aes(x = semester, 
+             y = butyrate_mean_mmol_kg)) +
+  geom_point(aes(color = supplement_consumed)) +
+  facet_grid(~supplement_consumed) +
+  labs(title = "Mean butyrate concentration",
+       x = "Semester",
+       y = "Mean fecal butyrate (mmol/kg)") +
+  theme(axis.text.x = element_blank(),
+          legend.position = "bottom")
+    
+plot3_6
 ```
 
 # Exporting plots
@@ -321,7 +374,9 @@ ggplot2::ggsave(filename = "facet_plot.tiff",
 ### Homework 3.7
 Export plot 3.6 
 ```{r}
-
+save_plot(filename = "Plot3_6.pdf",
+          plot = plot3_6,
+          nrow = 1, ncol = 1)
 ```
 
 -----

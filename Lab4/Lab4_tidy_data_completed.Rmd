@@ -535,8 +535,11 @@ save_plot(filename = "butyrate_plot_1.pdf",
 save_plot(filename = "scfa_change_plot.pdf",
           plot = scfa_change_plot,
           nrow = 1, ncol = 1)
+save_plot(filename = "p1_plot.pdf",
+          plot = p1,
+          nrow = 1, ncol = 1)
 
-#incomplete: p1 plot
+
 ```
 
 

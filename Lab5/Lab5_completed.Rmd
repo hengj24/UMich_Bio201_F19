@@ -338,14 +338,14 @@ wk1_1x <- butyrate_long %>%
   filter(study_week == "week1", 
          supplement_consumed == "BRMPS", 
          frequency == "1xdaily") 
-shapiro.test(wk1_2x$butyrate_mean) 
+shapiro.test(wk1_2x$butyrate_mean) #p-value of 0.3089 indicates normality
 ggplot(wk1_2x, aes(x = butyrate_mean)) + geom_histogram()
 
 wk3_1x <- butyrate_long %>%
   filter(study_week == "week3", 
          supplement_consumed == "BRMPS", 
          frequency == "1xdaily") 
-shapiro.test(wk3_2x$butyrate_mean) 
+shapiro.test(wk3_2x$butyrate_mean) #p-value of 0.566 indicates normality
 ggplot(wk3_2x, aes(x = butyrate_mean)) + geom_histogram()
 
 # join these data frames back together
@@ -359,6 +359,8 @@ x1_df <- inner_join(x = wk1_1x, y = wk3_1x,
 # code to run paired t-test 
 t.test(x = x1_df$butyrate_mean_wk1, y = x1_df$butyrate_mean_wk3, 
        alternative = "less", paired = TRUE) 
+
+#The p-value is 0.2367, so We can say with confidence that the butyrate concentrations between weeks 1 and 3 are equal for individuals who consumed BRMPS once daily. 
 ```
 
 # Homework 5.2
@@ -368,7 +370,7 @@ Generate plots to determine if methane, acetate, propionate increased during wee
 ch4_long <- breath_wkly %>% 
   rename_all(tolower) %>%
   filter(semester != "Winter2015",
-         supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT",
+         supplement_consumed == "BRMPS",
          quantity_compliant == "yes",
          study_week == "week1" | study_week == "week3") %>%
   na.omit(ch4_mean)
@@ -395,7 +397,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/ch4
 acetate_long <- scfa_long %>% 
   select(-starts_with("but"), -starts_with("pro"), -ends_with("median")) %>%
   filter(semester != "Winter2015",
-         supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT",
+         supplement_consumed == "BRMPS",
          study_week == "week1" | study_week == "week3",
          quantity_compliant == "yes") %>%
   na.omit(acetate_mean)
@@ -421,7 +423,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/ace
 propionate_long <- scfa_long %>% 
   select(-starts_with("ace"), -starts_with("but"), -ends_with("median")) %>%
   filter(semester != "Winter2015",
-         supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT",
+         supplement_consumed == "BRMPS",
          study_week == "week1" | study_week == "week3",
          quantity_compliant == "yes") %>%
   na.omit(propionate_mean)
@@ -439,7 +441,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/pro
           nrow = 1, ncol = 1,
           base_aspect_ratio = 1.1)
 
-#much greater range in week3, which looks more unimodal and skews to the right compared to week1, which looks slightly bimodal
+#much greater range in week3, which looks more unimodal and skews to the right compared to week1, which looks slightly bimodal. Widest part of week3 is lower than the widest part of week1.
 ```
 
 ```{r}
@@ -448,7 +450,7 @@ ph_long <- pH_wkly %>%
   rename_all(tolower) %>% 
   select(-starts_with("ace"), -starts_with("but"), -ends_with("median")) %>%
   filter(semester != "Winter2015",
-         supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT",
+         supplement_consumed == "BRMPS",
          study_week == "week1" | study_week == "week3",
          quantity_compliant == "yes") %>%
   na.omit(ph_mean)
@@ -478,15 +480,15 @@ Check assumptions on data sets for individuals who consumed BRMPS: breath methan
 ch4_long %>%
   filter(study_week == "week1" | study_week == "week3") %>% 
   group_by(study_week) %>% 
-  summarise(sample_size = n()) #168, 153 > 30. 
+  summarise(sample_size = n()) #153, 139 > 30. 
 
 #normality test for week 1 ph samples
 wk1_ch4 <- ch4_long %>%
   filter(study_week == "week1") 
-shapiro.test(wk1_ch4$ch4_mean) #p-value: 2.2e-16
+shapiro.test(wk1_ch4$ch4_mean) #with such a small p-value of 2.2e-16, the null hypothesis that the data are normally distributed is rejected
 #visually checking normality
 ch4_wk1_plot <- ggplot(wk1_ch4, aes(x = ch4_mean)) + geom_histogram()
-ch4_wk1_plot #appears unimodal but skewed and noncontinuous
+ch4_wk1_plot #appears unimodal but very skewed and noncontinuous
 #saving plots:
 save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/ch4_wk1_normality_histogram.pdf",
           plot = ch4_wk1_plot,
@@ -514,9 +516,9 @@ week2_ch4_grp <- ch4_long %>%
 var.test(x = week1_ch4_grp$ch4_mean, 
          y = week2_ch4_grp$ch4_mean, 
          alternative = "two.sided")
-#p value < .05, so not equal variances
+#p value of 2.2e-16 is incredibly small, indicates unequal variances
 
-#Since the data is majorly skewed to the right (not normal), we will proceed with a non-parametric test.
+#Since the data is majorly skewed to the right (not normal), we will proceed with a non-parametric test. 
 ```
 
 ```{r}
@@ -526,12 +528,12 @@ var.test(x = week1_ch4_grp$ch4_mean,
 acetate_long %>%
   filter(study_week == "week1" | study_week == "week3") %>% 
   group_by(study_week) %>% 
-  summarise(sample_size = n())  #146, 143 > 30 Given our large sample sizes, we can proceed with the paired t-test.
+  summarise(sample_size = n())  #131, 128 > 30 
 
 #normality test for week 1 acetate samples
 wk1_acetate <- acetate_long %>%
   filter(study_week == "week1") 
-shapiro.test(wk1_acetate$acetate_mean) 
+shapiro.test(wk1_acetate$acetate_mean) #p-value: 4.04e-08
 #visually checking normality
 acetate_wk1_plot <- ggplot(wk1_acetate, aes(x = acetate_mean)) + geom_histogram() #appears unimodal, skewed right
 acetate_wk1_plot
@@ -544,7 +546,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/ace
 #normality test for week 3 acetate samples
 wk3_acetate <- acetate_long %>%
   filter(study_week == "week3") 
-shapiro.test(wk3_acetate$acetate_mean) 
+shapiro.test(wk3_acetate$acetate_mean) #p-value of 0.0007166
 #visually checking normality
 acetate_wk3_plot <- ggplot(wk3_acetate, aes(x = acetate_mean)) + geom_histogram() #most like unimodal... "jagged" appearance
 acetate_wk3_plot
@@ -561,7 +563,7 @@ week2_ace_grp <- acetate_long %>%
   filter(study_week == "week3") 
 var.test(x = week1_ace_grp$acetate_mean, 
          y = week2_ace_grp$acetate_mean, 
-         alternative = "two.sided") #p-value is 0.00019 < .05, reject null hypothesis. not equal variances
+         alternative = "two.sided") #p-value is 0.9024, indicates equal variances
 
 #Given our large sample sizes, we will proceed with a parametric paired t-test.
 ```
@@ -573,12 +575,12 @@ var.test(x = week1_ace_grp$acetate_mean,
 propionate_long %>%
   filter(study_week == "week1" | study_week == "week3") %>% 
   group_by(study_week) %>% 
-  summarise(sample_size = n()) #131, 139 > 30 Given our large sample sizes, we can proceed with the paired t-test.
+  summarise(sample_size = n()) #117, 124 > 30 
 
 #normality test for week 1 propionate samples
 wk1_propionate <- propionate_long %>%
   filter(study_week == "week1") 
-shapiro.test(wk1_propionate$propionate_mean) 
+shapiro.test(wk1_propionate$propionate_mean) #p-value = 0.01344 ndicates that normality is unlikely
 #visually checking for normality
 propionate_wk1_plot <- ggplot(wk1_propionate, aes(x = propionate_mean)) + geom_histogram()
 propionate_wk1_plot #may be bimodal?
@@ -591,7 +593,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/pro
 #normality test for week 3 prop samples
 wk3_propionate <- propionate_long %>%
   filter(study_week == "week3") 
-shapiro.test(wk3_propionate$propionate_mean) 
+shapiro.test(wk3_propionate$propionate_mean) #p-value = 1.178e-08 indicates that normality is unlikely
 #visually checking for normality 
 propionate_wk3_plot <- ggplot(wk3_propionate, aes(x = propionate_mean)) + geom_histogram()
 propionate_wk3_plot #appears unimodal
@@ -608,7 +610,7 @@ week2_pro_grp <- propionate_long %>%
   filter(study_week == "week3") 
 var.test(x = week1_pro_grp$propionate_mean, 
          y = week2_pro_grp$propionate_mean, 
-         alternative = "two.sided") #p-value < .05, not equal variances
+         alternative = "two.sided") #p-value of 0.0005322 is very low, indicates unequal variances
 
 #Given our large sample sizes, we will proceed with a parametric paired t-test.
 ```
@@ -620,12 +622,12 @@ var.test(x = week1_pro_grp$propionate_mean,
 ph_long %>%
   filter(study_week == "week1" | study_week == "week3") %>% 
   group_by(study_week) %>% 
-  summarise(sample_size = n()) #109, 138 > 30 Given our large sample sizes, we can proceed with the paired t-test.
+  summarise(sample_size = n()) #94, 123 > 30 
 
 #normality test for week 1 ph samples
 wk1_ph <- ph_long %>%
   filter(study_week == "week1") 
-shapiro.test(wk1_ph$ph_mean)
+shapiro.test(wk1_ph$ph_mean) #p-value = 0.09902 indicates this is fairly normal
 #visually checking for normality
 ph_wk1_plot <- ggplot(wk1_ph, aes(x = ph_mean)) + geom_histogram()
 ph_wk1_plot
@@ -638,7 +640,7 @@ save_plot(filename = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab5/figures/ph_
 #normality test for week 3 ph samples
 wk3_ph <- ph_long %>%
   filter(study_week == "week3") 
-shapiro.test(wk3_ph$ph_mean) 
+shapiro.test(wk3_ph$ph_mean) #p-value = 0.01564 indicates that normality is unlikely
 #visually checking for normality
 ph_wk3_plot <- ggplot(wk3_ph, aes(x = ph_mean)) + geom_histogram()
 ph_wk3_plot
@@ -655,7 +657,7 @@ week2_ph_grp <- ph_long %>%
   filter(study_week == "week3") 
 var.test(x = week1_ph_grp$ph_mean, 
          y = week2_ph_grp$ph_mean, 
-         alternative = "two.sided") # 0.0036 < 0.05, not equal variances
+         alternative = "two.sided") #p-value of 0.0311 is low, indicates that the variances are not equal 
 
 #Given our large sample sizes, we will proceed with a parametric paired t-test.
 ```
@@ -676,7 +678,7 @@ ch4_df <- inner_join(x = wk1_ch4, y = wk3_ch4,
 wilcox.test(x = ch4_df$ch4_mean_wk1, y = ch4_df$ch4_mean_wk3, 
        alternative = "less", paired = TRUE, var.equal = FALSE) 
 
-#A p-value = 0.002373 indicates that we should reject the null hypothesis - the wk1 and wk3 methane means are statistically different. 
+#A low p-value of 0.00283 indicates that we should reject the null hypothesis - the wk1 and wk3 methane means are statistically different. We can say with confidence that the methane concentrations between weeks 1 and 3 are not equal for individuals who consumed BRMPS.
 ```
 
 ```{r}
@@ -691,8 +693,9 @@ acetate_df <- inner_join(x = wk1_acetate, y = wk3_acetate,
 
 # code to run paired t-test 
 t.test(x = acetate_df$acetate_mean_wk1, y = acetate_df$acetate_mean_wk3, 
-       alternative = "less", paired = TRUE, var.equal = FALSE) 
-#A p-value = 0.003459 indicates that we should reject the null hypothesis - the wk1 and wk3 acetate means are statistically different.
+       alternative = "less", paired = TRUE, var.equal = TRUE) 
+
+#A very low p-value of 0.007261 indicates that we should reject the null hypothesis - the wk1 and wk3 acetate means are statistically different. We can say with confidence that the acetate concentrations between weeks 1 and 3 are not equal for individuals who consumed BRMPS.
 ```
 
 ```{r}
@@ -709,7 +712,7 @@ propionate_df <- inner_join(x = wk1_propionate, y = wk3_propionate,
 t.test(x = propionate_df$propionate_mean_wk1, y = propionate_df$propionate_mean_wk3, 
        alternative = "less", paired = TRUE, var.equal = FALSE)
 
-#A p-value = 0.3541 indicates that we fail to reject the null hypothesis - the wk1 and wk3 acetate means are statistically the same.
+#A p-value = 0.3541 indicates that we fail to reject the null hypothesis - the wk1 and wk3 propionate means are statistically the same. We can say with confidence that the propionate concentrations between weeks 1 and 3 are equal for individuals who consumed BRMPS.
 ```
 
 ```{r}
@@ -726,7 +729,7 @@ ph_df <- inner_join(x = wk1_ph, y = wk3_ph,
 t.test(x = ph_df$ph_mean_wk1, y = ph_df$ph_mean_wk3, 
        alternative = "greater", paired = TRUE, var.equal = FALSE) 
 
-#A p-value = 0.01013 indicates that we fail to reject the null hypothesis - the wk1 and wk3 acetate means are statistically the same.
+#A p-value = 0.002893 indicates that we reject the null hypothesis - the wk1 and wk3 PH means are statistically different. We can say with confidence that the acetate concentrations between weeks 1 and 3 are not equal for individuals who consumed BRMPS.
 ```
 
 
@@ -823,7 +826,7 @@ Now that we know our assumptions are reasonably met, we can run the test:
 ```{r}
 # run anova
 aov_results <- aov(delta_butyrate ~ supplement_consumed, data = scfa_wide)
-summary(aov_results) #F value of 0.661 - fail to reject null hypothesis is not likely to be false, no significant difference 
+summary(aov_results) #F value of 0.661 - fail to reject null hypothesis, no significant difference 
 ```
 
 
@@ -907,7 +910,7 @@ bartlett.test(delta_acetate ~ supplement_consumed, data = scfa_wide) #p-value = 
 #We will proceed with the test - Either the sample size or normality assumption is met for all samples of supplements consumed.
 
 acetate_aov_results <- aov(delta_acetate ~ supplement_consumed, data = scfa_wide)
-summary(acetate_aov_results) #We obtain a p-value of 0.137, which shows that the groups are not the same.
+summary(acetate_aov_results) #We obtain a p-value of 0.137, which shows that the acetate level changes are not the same among the groups.
 ```
 
 ```{r}
@@ -938,7 +941,7 @@ shapiro.test(s1$delta_propionate) #p-value = 6.507e-05 - not normal
 
 s2 <- scfa_wide %>%
   filter(supplement_consumed == "Arabino") 
-shapiro.test(s2$delta_propionate) #only two samples. NA
+shapiro.test(s2$delta_propionate) #only two samples, which is too small to test
 
 s3 <- scfa_wide %>%
   filter(supplement_consumed == "BRMPS+Accessible")
@@ -984,6 +987,6 @@ shapiro.test(s12$delta_propionate) #p-value = 6.47e-06 - not normal (sample size
 bartlett.test(delta_propionate ~ supplement_consumed, data = scfa_wide) #p-value = 0.00628, so variances are unlikely to be equal
 
 propionate_aov_results <- aov(delta_propionate ~ supplement_consumed, data = scfa_wide)
-summary(propionate_aov_results) #We obtain a p-value of 0.197, which shows that the groups are not the same.
+summary(propionate_aov_results) #We obtain a p-value of 0.197, which shows that the propionate level changes are not the same among the groups.
 ```
 

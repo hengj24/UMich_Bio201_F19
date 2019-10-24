@@ -600,7 +600,8 @@ If you do not have 748 rows and 4 columns, review your code with your neighbors,
 
 Now that the data are ready, save it as a CSV file in the curated_data directory.
 ```{r}
-write_delim()
+write_delim(pH_BSS_wkly, path = "C:/Users/Jules/Documents/UMich_Bio201_F19/Lab4/curated_data/pH_BSS_wkly.txt",
+            delim = "\t", na = "NA", col_names = TRUE)
 ```
 
 

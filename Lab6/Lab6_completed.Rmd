@@ -404,8 +404,6 @@ Fr <- scfa_ratio %>%
   group_by(participant_id, study_week) %>% 
   summarize(firmicutes_abund = sum(relative_abundance))
 
-mutate(firmicutes_abund = )
-
 # filter for Bacteroidetes, calculate sum per person per week (bacteroidetes_abund)
 Br <- scfa_ratio %>% 
   filter(phylum == "Bacteroidetes <phylum>") %>% 
@@ -550,8 +548,8 @@ scfa_acetate_plot <- tax_scfa_pH %>%
   geom_point() + 
   geom_smooth(method = "lm",
               se = FALSE) +  
-  xlab("Acetate") + 
-  ylab("Mean total SCFAS") +
+  xlab("Acetate (mmol/kg)") + 
+  ylab("Total SCFA abundance") +
   labs(title = "Total SCFAs vs. Acetate")
 scfa_acetate_plot
 
@@ -578,7 +576,7 @@ scfa_aratio_plot <- tax_scfa_pH %>%
   geom_smooth(method = "lm",
               se = FALSE) +  
   xlab("Acetate ratio") + 
-  ylab("Mean total SCFAS") +
+  ylab("Total SCFA abundance") +
   labs(title = "SCFA abundance vs. acetate ratio")
 scfa_aratio_plot
 
@@ -607,7 +605,7 @@ scfa_ph_plot <- tax_scfa_pH %>%
   geom_smooth(method = "lm",
               se = FALSE) +  
   xlab("pH") + 
-  ylab("Mean total SCFAS") +
+  ylab("Total SCFA abundance") +
   labs(title = "Total SCFAs vs. pH")
 scfa_ph_plot
 

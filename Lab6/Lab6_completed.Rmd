@@ -673,7 +673,9 @@ write_delim(scfa_ratio,
 write_delim(tax_scfa, 
             path="Lab6/curated_data/tax_scfa.txt",
             delim = "\t", quote = FALSE, col_names = TRUE)
-#incomplete!!
+write_delim(tax_scfa_pH, 
+            path="Lab6/curated_data/tax_scfa_pH.txt",
+            delim = "\t", quote = FALSE, col_names = TRUE)
 ```
 
 -----

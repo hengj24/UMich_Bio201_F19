@@ -122,6 +122,7 @@ n_distinct(scfa_long$participant_id)
 #identify shared columns = ?
 colnames(taxa_cat_curated) 
 colnames(scfa_long)
+# participant_id, study_week, semester
 ```
 
 ```{r}
@@ -132,7 +133,7 @@ str(tax_scfa)
 
 # Intro
 
-Last week we discussed the factors influencing data structure (sample size, varaince), how to check assumptions for statistical tests, how to determine if the differences between two means (t-tests, Mann-Whitney-U) or more (ANOVA) are likely real, and what to do if your datset does not meet the assumptions when comparing two means (non-parametric). 
+Last week we discussed the factors influencing data structure (sample size, varaince), how to check assumptions for statistical tests, how to determine if the differences between two means (t-tests, Mann-Whitney-U) or more (ANOVA) are likely real, and what to do if your dataset does not meet the assumptions when comparing two means (non-parametric). 
 
 In the first portion of the lab we will review the assumption checking process for comparison of more than 2 means, use the non-pararmetric counterpart to ANOVA (Kruskall-Wallace), and learn what to do if your ANOVA (or Kruskall-Wallace) test has a significant result. This will complete our section on categorical/discrete vs. continuous variables. The second half of the lab will discuss how to plot and analyze continuous vs. countinuous variables.
 
@@ -364,6 +365,7 @@ tax_scfa %>%
               se = FALSE) + #hides confidence interval around line 
   xlab("Week 3 mean butyrate (mmol/kg)") + 
   ylab("Relative abundance") 
+
 ```
 
 You plot two continuous variables and they appear to be correlated, you can determine if they are correlated by building a linear model. 
@@ -592,7 +594,7 @@ summary(m65b)
 #Adjusted R-squared: 0.0001098
 #p-value: 0.1988
 
-#Differnt conclusions - linear model has negative slope, much lower p-value
+#Different conclusions - linear model has slight negative slope, much lower p-value
 ```
 
 ### Homework 6.6
@@ -621,7 +623,7 @@ summary(m66)
 #Adjusted R-squared: -2.266e-05
 #p-value: 0.3522
 
-#There doesn't appear to be a linear relationship.
+#There doesn't appear to be a linear relationship between total SCFAs and pH.
 ```
 
 ### Homework 6.7
@@ -650,7 +652,7 @@ summary(m67)
 #Adjusted R-squared: 0.05209
 #p-value: 2.2e-16
 
-#THere appears to be a weak negative linear relationship.
+#There appears to be a very weak negative linear relationship, if any.
 ```
 
 ### Homework 6.8

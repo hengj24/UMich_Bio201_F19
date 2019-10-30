@@ -181,8 +181,8 @@ Join this data frame with the one called "taxa". Name the new data frame "all_da
 ```{r}
 all_data <- inner_join(scfa_wkly_means, taxa, by = c("participant_id", "study_week"))
 
-str(all_data)
-#14 by 2580
+dim(all_data)
+#2580 by 14
 ```
 
 Save all data frames generated to your GitHub page. [1 point]

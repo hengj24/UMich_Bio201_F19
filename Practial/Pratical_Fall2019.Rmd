@@ -182,7 +182,7 @@ What can you conclude from these results?
 
 ### Extra credit:
 
-Is the abundace of hydrogen producers and consumers related? Create a plot, check assumptions, conduct the appropriate statistical test(s), and interpret the results. [1 point]
+Is the abundance of hydrogen producers and consumers related? Create a plot, check assumptions, conduct the appropriate statistical test(s), and interpret the results. [1 point]
 ```{r}
 # plot
 # test(s)

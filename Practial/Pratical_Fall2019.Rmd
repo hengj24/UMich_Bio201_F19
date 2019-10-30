@@ -52,11 +52,9 @@ You have a data frame (called butyrate_df) with the columns: "Participant_ID", "
 butyrate_df %>%
   filter(Semester == "Fall2019")
 # Result1 = keeps only data from Fall 2019 semester
-
 butyrate_df %>%
   filter(Avg_butyrate <= 47.0)
 # Result2 = keeps only values equal to 47 mmol/kg 
-
 butyrate_df %>%
   group_by(Semester) %>%
   summarize(New_column = median(Avg_butyrate))
@@ -76,7 +74,6 @@ breath_df %>%
   filter(!is.na(Methane)) %>% 
   group_by(Participant_ID, Study_week) %>%
   summarize(Avg_methane = mean(Methane))
-
 # Option 2
 breath_df %>%
   group_by(Participant_ID, Study_week) %>%
@@ -92,61 +89,50 @@ breath_df %>%
 Find the data frame matching your unique name in the GitHub repository. Find the breath gas and taxa abundance data frames. Download and import all into RStudio and use these data frames to complete the rest of the practical. Name the dataframe to match your uniqname, name the breath gas data frame "breath", name the taxa abundance data frame "taxa". [1 point]
 ```{r}
 # data import code 
-
 ```
 
 Update column names in all files match the course conventions. [1 point]
 ```{r}
-
 ```
 
 View the supplement types in your semester. Are they all entered in the same style? If not update them to match. [1 point]
 ```{r}
-
 ```
 
 ### Question 7
 
 What are the dimensions of each data frame? Write the results as a comment after the function. [1 point]
 ```{r}
-
 ```
 
 Select a join that will drop as few data points as possible. Join the data frame containing the participant data with the breath gas data. Name this "joined_df". [1 point]
 ```{r}
-
 ```
 
 What are the dimensions of the joined data frame? Write the results as a comment after the function. [1 point]
 ```{r}
-
 ```
 
 ### Question 8
 
 Calculate the total SCFAs. [1 point]
 ```{r}
-
 ```
 
 Calculate the weekly mean of each SCFA of each participant. Calculate the weekly mean methane and hydrogen levels of each participant. [1 point]
 ```{r}
-
 ```
 
 What are the dimensions of the data frame with the avearges? Write the results as a comment after the function.
 ```{r}
-
 ```
 
 Join this data frame with the one called "taxa". Name the new data frame "all_data". What are the dimensions of this new data frame? [1 point]
 ```{r}
-
 ```
 
 Save all data frames generated to your GitHub page. [1 point]
 ```{r}
-
 ```
 
 # Part 3 - statistics & graphics 
@@ -157,15 +143,12 @@ Update all axes labels and figure titles so they are informative and easy to rea
 
 If you have more than one type of supplement consumed in your semester, filter for one type to answer Question 9. Plot each SCFA with the study week (weeks 1 and 3 only) on the x-axis. Make each study week a different color. Hint: you may have to use facets, or create individual plots and combine them into a multi-panelled figure. [3 points]
 ```{r}
-
 ```
 
 Based on the data presented in the plot you generated above, identify which statistical test you would need to determine if there was a change in SCFA concentration between weeks 1 and 3 of the study. Check the assumptions appropriate for the test. [3 points]
 ```{r}
 # assumptions
-
 # test 
-
 # result?
 ```
 
@@ -178,9 +161,7 @@ Based on the results of the test, conclude if there was a difference in SCFAs be
 Is there a correlation between the abundace of hydrogen generators and breath hydrogen? Create a plot that shows the relationship and conduct the appropriate statistical test(s). [2 points]
 ```{r}
 # plot
-
 # test
-
 # result?
 ```
 
@@ -191,9 +172,7 @@ What can you conclude from these results?
 Is there a correlation between the abundace of hydrogen consumers and breath methane? Create a plot that shows the relationship and conduct the appropriate statistical test(s). [2 points]
 ```{r}
 # plot
-
 # test
-
 # result?
 ```
 
@@ -206,7 +185,6 @@ What can you conclude from these results?
 Is the abundace of hydrogen producers and consumers related? Create a plot, check assumptions, conduct the appropriate statistical test(s), and interpret the results. [1 point]
 ```{r}
 # plot
-
 # test(s)
 ```
 

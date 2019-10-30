@@ -127,14 +127,14 @@ hengj[["supplement_consumed"]] <- recode(.x=hengj[["supplement_consumed"]],
 
 What are the dimensions of each data frame? Write the results as a comment after the function. [1 point]
 ```{r}
-str(hengj)
-#9 by 472
+dim(hengj)
+#472 by 9
 
-str(breath)
-#5 by 2668
+dim(breath)
+#2668 by 5
 
-str(taxa)
-#6 by 46881
+dim(taxa)
+#46881 by 6
 ```
 
 Select a join that will drop as few data points as possible. Join the data frame containing the participant data with the breath gas data. Name this "joined_df". [1 point]
@@ -147,8 +147,8 @@ joined_df <- inner_join(hengj, breath, by = c("participant_id", "study_week", "s
 
 What are the dimensions of the joined data frame? Write the results as a comment after the function. [1 point]
 ```{r}
-str(joined_df)
-#11 by 483
+dim(joined_df)
+#483 by 11
 ```
 
 ### Question 8
@@ -173,8 +173,8 @@ scfa_wkly_means <- total_scfa %>%
 
 What are the dimensions of the data frame with the avearges? Write the results as a comment after the function.
 ```{r}
-str(scfa_wkly_means)
-#10 by 107
+dim(scfa_wkly_means)
+#107 by 10
 ```
 
 Join this data frame with the one called "taxa". Name the new data frame "all_data". What are the dimensions of this new data frame? [1 point]

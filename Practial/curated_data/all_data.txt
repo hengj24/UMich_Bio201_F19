@@ -80,50 +80,50 @@ U222	week1	Accessible	Fall2016	92.48400413	23.989250086666665	25.65600275	142.12
 U222	week1	Accessible	Fall2016	92.48400413	23.989250086666665	25.65600275	142.12925696666667	4	0.5	4.641529896648799e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
 U222	week1	Accessible	Fall2016	92.48400413	23.989250086666665	25.65600275	142.12925696666667	4	0.5	1.7239940181062568e-4	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
 U222	week1	Accessible	Fall2016	92.48400413	23.989250086666665	25.65600275	142.12925696666667	4	0.5	0.025546644579177016	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.09165234041897297	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.006787159619375796	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	9.832304582946417e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	1.0703178432526153e-4	Roseburia faecis	butyrogen_focused	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.004149599660923633	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.09165234041897297	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.025014463434028102	Holdemanella biformis	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.01922128914012069	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.011520961516826895	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	2.4641922997165565e-4	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	8.409146832600241e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	8.236037886533781e-4	Coprococcus catus	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.006787159619375796	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	9.832304582946417e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	3.0606357493558213e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.005009794821123664	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.009472857765646173	Ruminococcus bromii	RS_degraders	Firmicutes
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.002040499038858265	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.03376874239019597	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.041410618497225535	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.04152782049911382	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	2.731195717485115e-5	Porphyromonas	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.01922128914012069	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.011520961516826895	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.019965065711431917	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.010709204721049245	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	5.7069482094449985e-5	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	7.92760830779231e-4	Flavobacteriales	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.05466112589650871	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.024833240930948856	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.00393860040398009	Bacteroides nordii	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.09441445423531784	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	1.1413896418889996e-4	Parabacteroides goldsteinii	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.011105890781885895	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.00990761199160227	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	1.9974318733057496e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.017558839143569087	Barnesiella	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	7.060318229463818e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	6.10645328825716e-4	Parabacteroides gordonii	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.014785127374027159	Bacteroides clarus	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	1.0466272437071536e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.003624165731430811	Bacteroides luti	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.00441271817010394	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U222	week3	Accessible	Fall2016	98.27752638333334	NA	NA	NA	3	0	0.006787159619375796	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.09165234041897297	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.006787159619375796	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	9.832304582946417e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	1.0703178432526153e-4	Roseburia faecis	butyrogen_focused	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.004149599660923633	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.09165234041897297	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.025014463434028102	Holdemanella biformis	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.01922128914012069	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.011520961516826895	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	2.4641922997165565e-4	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	8.409146832600241e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	8.236037886533781e-4	Coprococcus catus	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.006787159619375796	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	9.832304582946417e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	3.0606357493558213e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.005009794821123664	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.009472857765646173	Ruminococcus bromii	RS_degraders	Firmicutes
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.002040499038858265	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.03376874239019597	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.041410618497225535	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.04152782049911382	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	2.731195717485115e-5	Porphyromonas	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.01922128914012069	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.011520961516826895	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.019965065711431917	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.010709204721049245	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	5.7069482094449985e-5	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	7.92760830779231e-4	Flavobacteriales	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.05466112589650871	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.024833240930948856	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.00393860040398009	Bacteroides nordii	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.09441445423531784	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	1.1413896418889996e-4	Parabacteroides goldsteinii	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.011105890781885895	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.00990761199160227	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	1.9974318733057496e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.017558839143569087	Barnesiella	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	7.060318229463818e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	6.10645328825716e-4	Parabacteroides gordonii	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.014785127374027159	Bacteroides clarus	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	1.0466272437071536e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.003624165731430811	Bacteroides luti	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.00441271817010394	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U222	week3	Accessible	Fall2016	98.27752638333334	40.013574665	32.94117647	210.70588236	3	0	0.006787159619375796	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U223	week1	BRMPS	Fall2016	35.025777346666665	12.401460566666666	5.360688088333333	52.78792600166667	4	4	0.08395977008160345	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U223	week1	BRMPS	Fall2016	35.025777346666665	12.401460566666666	5.360688088333333	52.78792600166667	4	4	0.012397176670355135	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U223	week1	BRMPS	Fall2016	35.025777346666665	12.401460566666666	5.360688088333333	52.78792600166667	4	4	0.002056999018823059	Roseburia hominis	butyrogen_focused	Firmicutes
@@ -185,40 +185,40 @@ U224	week1	BRMPS	Fall2016	35.267091835	7.81607143	7.129336734500001	50.212499999
 U224	week1	BRMPS	Fall2016	35.267091835	7.81607143	7.129336734500001	50.2124999995	37	3	0.0027464968161693853	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
 U224	week1	BRMPS	Fall2016	35.267091835	7.81607143	7.129336734500001	50.2124999995	37	3	2.528508938279097e-5	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
 U224	week1	BRMPS	Fall2016	35.267091835	7.81607143	7.129336734500001	50.2124999995	37	3	2.1297440047706267e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.09665112628722627	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.8515742204371234e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.003336630007758027	Roseburia faecis	butyrogen_focused	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.02274806861159727	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.09665112628722627	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.0010847455871995902	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.0274379941880111e-4	Anaerococcus lactolyticus	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	9.010835529724494e-4	Anaerococcus vaginalis	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.520987218594802e-5	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.009908462659034166	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.0012574761568432248	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.002350802667206224	Coprococcus catus	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	1.5768962177017864e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.8515742204371234e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	4.1597499701234746e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.4779797706742356e-4	Peptoniphilus duerdenii	butyrogen_flint	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.16303691661297806	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.0033027354831859875	Bifidobacterium bifidum	RS_degraders	Actinobacteria <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.00914362066289953	Ruminococcus bromii	RS_degraders	Firmicutes
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.005755278323429078	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.02518958599336391	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.0419893093147089	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.12788203345501234	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	9.327652708800767e-4	Porphyromonas	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.007381908776702466	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.0013738965770669785	Prevotella bivia	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	2.9285215471604604e-4	Prevotella buccalis	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	7.130950620426508e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.029796724023685325	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.09740829404367027	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	0.00950171953714597	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	7.055818350069215e-4	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	4.2801468766191347e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
-U224	week3	BRMPS	Fall2016	NA	NA	29.344136536666667	NA	37.5	0	6.532855759050258e-4	Desulfovibrio	hydrogen_consumers	Proteobacteria
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.09665112628722627	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.8515742204371234e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.003336630007758027	Roseburia faecis	butyrogen_focused	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.02274806861159727	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.09665112628722627	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.0010847455871995902	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.0274379941880111e-4	Anaerococcus lactolyticus	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	9.010835529724494e-4	Anaerococcus vaginalis	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.520987218594802e-5	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.009908462659034166	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.0012574761568432248	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.002350802667206224	Coprococcus catus	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	1.5768962177017864e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.8515742204371234e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	4.1597499701234746e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.4779797706742356e-4	Peptoniphilus duerdenii	butyrogen_flint	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.16303691661297806	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.0033027354831859875	Bifidobacterium bifidum	RS_degraders	Actinobacteria <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.00914362066289953	Ruminococcus bromii	RS_degraders	Firmicutes
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.005755278323429078	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.02518958599336391	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.0419893093147089	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.12788203345501234	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	9.327652708800767e-4	Porphyromonas	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.007381908776702466	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.0013738965770669785	Prevotella bivia	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	2.9285215471604604e-4	Prevotella buccalis	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	7.130950620426508e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.029796724023685325	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.09740829404367027	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	0.00950171953714597	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	7.055818350069215e-4	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	4.2801468766191347e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
+U224	week3	BRMPS	Fall2016	92.90635453499999	28.716833889999997	29.344136536666667	149.103678945	37.5	0	6.532855759050258e-4	Desulfovibrio	hydrogen_consumers	Proteobacteria
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	0.05618351720509476	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	2.5432912585646216e-4	Anaerostipes caccae	butyrogen_focused	Firmicutes
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	2.0224961048298482e-4	Anaerostipes hadrus	butyrogen_focused	Firmicutes
@@ -248,32 +248,32 @@ U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.8790
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	0.0025186212089811717	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	0.01133470461371957	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
 U225	week1	Accessible	Fall2016	34.9403629	11.783957509	9.154757298666667	55.87907770766667	16	3.5	0.0023764436772268204	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.11704131837536312	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	3.1422318635506634e-4	Anaerostipes caccae	butyrogen_focused	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	7.766990291262136e-5	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.11704131837536312	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.002390544070122626	Clostridium butyricum	butyrogen_flint	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.035940752295289015	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.00735604434732445	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.0023335003638693943	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	3.1422318635506634e-4	Anaerostipes caccae	butyrogen_flint	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.008364372938278195	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	3.883495145631068e-5	Ruminococcus bromii	RS_degraders	Firmicutes
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	6.787487575073501e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.0654277620689634	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.04169514005396743	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.3601392438234694	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	9.405327795364806e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.07197003541243498	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.035940752295289015	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.00735604434732445	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	1.5061375103546954e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.05476988321580988	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	1.1650485436893203e-4	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.01038050979474752	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.0021019837227938608	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.023795942401219936	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U225	week3	Accessible	Fall2016	41.088215489999996	NA	6.724579124666667	NA	13	3	0.003098438271880241	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.11704131837536312	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	3.1422318635506634e-4	Anaerostipes caccae	butyrogen_focused	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	7.766990291262136e-5	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.11704131837536312	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.002390544070122626	Clostridium butyricum	butyrogen_flint	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.035940752295289015	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.00735604434732445	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.0023335003638693943	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	3.1422318635506634e-4	Anaerostipes caccae	butyrogen_flint	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.008364372938278195	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	3.883495145631068e-5	Ruminococcus bromii	RS_degraders	Firmicutes
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	6.787487575073501e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.0654277620689634	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.04169514005396743	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.3601392438234694	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	9.405327795364806e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.07197003541243498	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.035940752295289015	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.00735604434732445	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	1.5061375103546954e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.05476988321580988	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	1.1650485436893203e-4	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.01038050979474752	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.0021019837227938608	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.023795942401219936	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U225	week3	Accessible	Fall2016	41.088215489999996	13.73939394	6.724579124666667	71.07676767800001	13	3	0.003098438271880241	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
 U227	week1	BRMPS	Fall2016	42.66936572	19.6072874515	6.128205128	68.40485829949999	9	3	0.03852362053457988	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U227	week1	BRMPS	Fall2016	42.66936572	19.6072874515	6.128205128	68.40485829949999	9	3	0.00120888711511352	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U227	week1	BRMPS	Fall2016	42.66936572	19.6072874515	6.128205128	68.40485829949999	9	3	0.0035091259067880857	Anaerostipes hadrus	butyrogen_focused	Firmicutes
@@ -476,81 +476,81 @@ U230	week3	Accessible	Fall2016	27.421798850499997	25.531236149999998	5.509082853
 U230	week3	Accessible	Fall2016	27.421798850499997	25.531236149999998	5.5090828535	58.462117854	12	26.5	0.012139905485298835	Methanobrevibacter smithii	hydrogen_consumers	Euryarchaeota
 U230	week3	Accessible	Fall2016	27.421798850499997	25.531236149999998	5.5090828535	58.462117854	12	26.5	1.5899209822605075e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
 U230	week3	Accessible	Fall2016	27.421798850499997	25.531236149999998	5.5090828535	58.462117854	12	26.5	0.012547287223835827	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.10283921727598344	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.05564310715915729	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0017721890387215578	Roseburia hominis	butyrogen_focused	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.015912640138535262	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.10283921727598344	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	7.327080890973036e-4	Clostridium perfringens	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.02073299269961476	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.004176890709691465	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.015666870232071226	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.006316698215917981	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0018011362243000836	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0015530324599292206	Coprococcus catus	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.05564310715915729	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0017721890387215578	Roseburia hominis	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.005224707989181704	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.03279719967468156	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0415962214136035	Ruminococcus bromii	RS_degraders	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.03442759947564495	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	9.582139819709623e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.05935931760972631	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.03811137761583869	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.02073299269961476	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.004176890709691465	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	3.145519600519012e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.005762060237988277	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0014294890674977257	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.04943536166402876	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0023061922939316315	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.04053862239482465	Bacteroides coprocola	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0035863857558092733	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.1276300381544829	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0016715760224366401	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.0015778197392705866	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	3.089398803006594e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	1.4610168470349344e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
-U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	NA	NA	7	1	0.05564310715915729	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.07177370339181613	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.017900330265751416	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	4.222081486172683e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.003874494374811031	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.07177370339181613	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	1.5097227731806579e-4	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0555274180115852	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.011531192753485344	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.005853846385828653	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0018546807495509212	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0025773448984341947	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	5.774044406090005e-4	Coprococcus catus	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.017900330265751416	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	4.222081486172683e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.004685630849342059	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.02368052220807129	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0064748152066074795	Ruminococcus bromii	RS_degraders	Firmicutes
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.044311972771440784	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0016053382266175173	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.04206551224442295	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.059848449699621324	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0555274180115852	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.011531192753485344	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	6.105006105006105e-5	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.013046937405708779	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	9.157509157509158e-5	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0017950999109960476	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	1.221001221001221e-4	Bacteroides acidifaciens	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.007112332112332112	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0503150225680308	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0047485367703860425	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.09621227674584228	Bacteroides coprocola	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.005784164642619362	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.17258312899541522	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0034304122097029	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	9.047317470370036e-5	Bacteroides clarus	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.002324329319262821	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.0013344696609421118	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U231	week3	BRMPS	Fall2016	NA	8.4170940155	10.864387466	NA	9	0	0.017900330265751416	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.10283921727598344	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.05564310715915729	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0017721890387215578	Roseburia hominis	butyrogen_focused	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.015912640138535262	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.10283921727598344	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	7.327080890973036e-4	Clostridium perfringens	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.02073299269961476	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.004176890709691465	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.015666870232071226	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.006316698215917981	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0018011362243000836	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0015530324599292206	Coprococcus catus	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.05564310715915729	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0017721890387215578	Roseburia hominis	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.005224707989181704	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.03279719967468156	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0415962214136035	Ruminococcus bromii	RS_degraders	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.03442759947564495	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	9.582139819709623e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.05935931760972631	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.03811137761583869	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.02073299269961476	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.004176890709691465	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	3.145519600519012e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.005762060237988277	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0014294890674977257	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.04943536166402876	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0023061922939316315	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.04053862239482465	Bacteroides coprocola	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0035863857558092733	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.1276300381544829	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0016715760224366401	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.0015778197392705866	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	3.089398803006594e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	1.4610168470349344e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
+U231	week1	BRMPS	Fall2016	30.891747260000002	6.3228884590000005	3.0870406189999997	30.704448741500002	7	1	0.05564310715915729	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.07177370339181613	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.017900330265751416	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	4.222081486172683e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.003874494374811031	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.07177370339181613	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	1.5097227731806579e-4	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0555274180115852	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.011531192753485344	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.005853846385828653	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0018546807495509212	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0025773448984341947	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	5.774044406090005e-4	Coprococcus catus	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.017900330265751416	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	4.222081486172683e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.004685630849342059	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.02368052220807129	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0064748152066074795	Ruminococcus bromii	RS_degraders	Firmicutes
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.044311972771440784	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0016053382266175173	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.04206551224442295	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.059848449699621324	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0555274180115852	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.011531192753485344	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	6.105006105006105e-5	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.013046937405708779	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	9.157509157509158e-5	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0017950999109960476	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	1.221001221001221e-4	Bacteroides acidifaciens	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.007112332112332112	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0503150225680308	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0047485367703860425	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.09621227674584228	Bacteroides coprocola	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.005784164642619362	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.17258312899541522	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0034304122097029	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	9.047317470370036e-5	Bacteroides clarus	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.002324329319262821	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.0013344696609421118	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U231	week3	BRMPS	Fall2016	26.74074074	8.4170940155	10.864387466	37.703703703	9	0	0.017900330265751416	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U232	week1	BRMPS+Accessible	Fall2016	15.2440476205	10.8035714265	2.238095238	28.285714284999997	5	3	0.029742196689406093	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U232	week1	BRMPS+Accessible	Fall2016	15.2440476205	10.8035714265	2.238095238	28.285714284999997	5	3	1.9175455417066154e-4	Anaerostipes caccae	butyrogen_focused	Firmicutes
 U232	week1	BRMPS+Accessible	Fall2016	15.2440476205	10.8035714265	2.238095238	28.285714284999997	5	3	3.8594130784366565e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
@@ -846,46 +846,46 @@ U247	week1	BRMPS	Fall2016	45.4299702	18.052362706666667	16.320561939999997	79.80
 U247	week1	BRMPS	Fall2016	45.4299702	18.052362706666667	16.320561939999997	79.80289484666666	29	2	3.197586775718522e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
 U247	week1	BRMPS	Fall2016	45.4299702	18.052362706666667	16.320561939999997	79.80289484666666	29	2	1.0906909527185472e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
 U247	week1	BRMPS	Fall2016	45.4299702	18.052362706666667	16.320561939999997	79.80289484666666	29	2	0.005612823667013992	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.07741616861126044	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0014191619562268856	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	2.0998950052497376e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.029005830324110325	Roseburia faecis	butyrogen_focused	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0023669592662997345	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.07741616861126044	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.041175934858114174	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0049157751882784725	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	9.536774404254593e-4	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0010586721370722367	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	5.861710016920175e-4	Coprococcus catus	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0014191619562268856	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	2.0716801325875283e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	2.0998950052497376e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	8.69287397971632e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.08346295632008875	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.02438247184115017	Ruminococcus bromii	RS_degraders	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0015975251039659195	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.044120922417908194	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.00463904553969831	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.04052245297275959	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.06039826072314119	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	3.7980802430771364e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	6.905600441958427e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.025306387465530558	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.041175934858114174	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0049157751882784725	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.02341302487595068	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	1.4999250037498125e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	4.159680428507813e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.04478683163091437	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.018936079873411102	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.017084217669945074	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.18146106340153667	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.004568293575662636	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.002759764258465239	Bacteroides gallinarum	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	4.4160422570209347e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	2.9998500074996254e-5	Prevotellamassilia timonensis	propionate_gen	Bacteroidetes <phylum>
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	2.9998500074996254e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
-U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	NA	NA	10	4	0.0014191619562268856	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.07741616861126044	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0014191619562268856	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	2.0998950052497376e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.029005830324110325	Roseburia faecis	butyrogen_focused	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0023669592662997345	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.07741616861126044	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.041175934858114174	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0049157751882784725	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	9.536774404254593e-4	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0010586721370722367	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	5.861710016920175e-4	Coprococcus catus	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0014191619562268856	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	2.0716801325875283e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	2.0998950052497376e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	8.69287397971632e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.08346295632008875	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.02438247184115017	Ruminococcus bromii	RS_degraders	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0015975251039659195	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.044120922417908194	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.00463904553969831	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.04052245297275959	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.06039826072314119	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	3.7980802430771364e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	6.905600441958427e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.025306387465530558	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.041175934858114174	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0049157751882784725	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.02341302487595068	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	1.4999250037498125e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	4.159680428507813e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.04478683163091437	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.018936079873411102	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.017084217669945074	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.18146106340153667	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.004568293575662636	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.002759764258465239	Bacteroides gallinarum	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	4.4160422570209347e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	2.9998500074996254e-5	Prevotellamassilia timonensis	propionate_gen	Bacteroidetes <phylum>
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	2.9998500074996254e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
+U247	week3	BRMPS	Fall2016	40.223199023333336	9.276574218333334	9.835164833	56.901491363999995	10	4	0.0014191619562268856	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U248	week1	BRMPS	Fall2016	34.75436394333333	16.827076713333334	16.52290171	68.10434236666666	12	1	0.125953780437332	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U248	week1	BRMPS	Fall2016	34.75436394333333	16.827076713333334	16.52290171	68.10434236666666	12	1	1.7528483786152498e-4	[Eubacterium] rectale	butyrogen_focused	Firmicutes
 U248	week1	BRMPS	Fall2016	34.75436394333333	16.827076713333334	16.52290171	68.10434236666666	12	1	0.003782406727526961	Roseburia intestinalis	butyrogen_focused	Firmicutes
@@ -980,72 +980,72 @@ U250	week3	BRMPS	Fall2016	98.378787895	28.36130536	41.50291375	168.2430070049999
 U250	week3	BRMPS	Fall2016	98.378787895	28.36130536	41.50291375	168.24300700499998	34	3	8.201696110755706e-5	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
 U250	week3	BRMPS	Fall2016	98.378787895	28.36130536	41.50291375	168.24300700499998	34	3	7.916645385361868e-4	Bacteroides sartorii	propionate_gen	Bacteroidetes <phylum>
 U250	week3	BRMPS	Fall2016	98.378787895	28.36130536	41.50291375	168.24300700499998	34	3	6.817685549856513e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.059136447958155126	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	7.075382931644692e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.00474016724371858	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.059136447958155126	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	6.780120686148214e-5	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.04372960024723402	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.012195368240082674	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.0017912657753524797	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	6.374201529102182e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	5.538279449677995e-4	Coprococcus catus	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	7.075382931644692e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	1.3388914309112715e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.02364810495183986	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	3.390060343074107e-5	Ruminococcus bromii	RS_degraders	Firmicutes
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.0034953715718947925	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.037347976833106304	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.007529897567049488	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.0903564196729586	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.26133709237629593	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.022936713209363017	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.04372960024723402	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.012195368240082674	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.01782170049748655	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	1.3560241372296427e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.02591001036669338	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	1.6950301715370534e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.0015982548638631205	Porphyromonadaceae	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.017231986329220822	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.008255047682682847	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.1306857051787168	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	0.0022773635853178364	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	8.622781980433508e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	1.8368171632195734e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
-U253	week3	Accessible	Fall2016	NA	12.116335141999999	8.965039179333333	NA	14	0	2.6789729824471935e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.047016085114865436	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.0022082511930822195	Roseburia hominis	butyrogen_focused	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.0061345553695336865	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.047016085114865436	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.009986407673725259	Holdemanella biformis	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.003349207164277409	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.003959867946537376	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.0018950904056427738	Coprococcus catus	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.0022082511930822195	Roseburia hominis	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.005956778012651202	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.0012732109808594766	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	7.943819392563964e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.02543930519567017	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	8.019122973832887e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.014775901489561224	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.03042700030299032	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.016864683995809645	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.003349207164277409	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	1.0496915778236712e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.00230727469609097	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.5324547260781632	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	2.1533580478066597e-4	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.005089449510454887	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	5.198266325188679e-4	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.024499765787934783	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	2.372921560131213e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.00261219257141559	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	7.565776653007773e-4	Butyricimonas virosa	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.001970792158386955	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	0.023690862760708743	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	5.415204953735317e-4	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
-U255	week1	Accessible	Fall2016	75.37299064999999	NA	10.419802154666668	NA	20	3.5	9.957331761931674e-5	Methanobrevibacter smithii	hydrogen_consumers	Euryarchaeota
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.059136447958155126	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	7.075382931644692e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.00474016724371858	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.059136447958155126	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	6.780120686148214e-5	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.04372960024723402	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.012195368240082674	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.0017912657753524797	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	6.374201529102182e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	5.538279449677995e-4	Coprococcus catus	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	7.075382931644692e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	1.3388914309112715e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.02364810495183986	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	3.390060343074107e-5	Ruminococcus bromii	RS_degraders	Firmicutes
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.0034953715718947925	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.037347976833106304	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.007529897567049488	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.0903564196729586	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.26133709237629593	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.022936713209363017	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.04372960024723402	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.012195368240082674	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.01782170049748655	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	1.3560241372296427e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.02591001036669338	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	1.6950301715370534e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.0015982548638631205	Porphyromonadaceae	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.017231986329220822	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.008255047682682847	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.1306857051787168	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	0.0022773635853178364	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	8.622781980433508e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	1.8368171632195734e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
+U253	week3	Accessible	Fall2016	40.58227848	12.116335141999999	8.965039179333333	65.6329113905	14	0	2.6789729824471935e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.047016085114865436	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.0022082511930822195	Roseburia hominis	butyrogen_focused	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.0061345553695336865	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.047016085114865436	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.009986407673725259	Holdemanella biformis	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.003349207164277409	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.003959867946537376	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.0018950904056427738	Coprococcus catus	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.0022082511930822195	Roseburia hominis	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.005956778012651202	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.0012732109808594766	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	7.943819392563964e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.02543930519567017	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	8.019122973832887e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.014775901489561224	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.03042700030299032	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.016864683995809645	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.003349207164277409	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	1.0496915778236712e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.00230727469609097	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.5324547260781632	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	2.1533580478066597e-4	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.005089449510454887	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	5.198266325188679e-4	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.024499765787934783	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	2.372921560131213e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.00261219257141559	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	7.565776653007773e-4	Butyricimonas virosa	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.001970792158386955	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	0.023690862760708743	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	5.415204953735317e-4	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
+U255	week1	Accessible	Fall2016	75.37299064999999	17.088235294	10.419802154666668	80.777424486	20	3.5	9.957331761931674e-5	Methanobrevibacter smithii	hydrogen_consumers	Euryarchaeota
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	0.0626753572533341	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	5.146837235364492e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	0.0022648947122668787	Roseburia hominis	butyrogen_focused	Firmicutes
@@ -1083,45 +1083,45 @@ U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	0.034377517388647534	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	0.0010549807263136538	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
 U255	week3	Accessible	Fall2016	54.96284251666667	10.853959651333334	11.767528949666666	77.58433111766666	8.5	3	5.146837235364492e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.04026161728275438	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	4.0696383666484975e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.004452403680830546	Roseburia hominis	butyrogen_focused	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.017291017298489617	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.04026161728275438	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.011883742862148316	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.002030522335035285	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.006436977538288578	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.0034781761878800725	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	4.0833660510433635e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.001779390634547023	Coprococcus catus	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	4.0696383666484975e-4	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	7.797270955165693e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	3.522615189516697e-5	Anaerofustis stercorihominis	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.004452403680830546	Roseburia hominis	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	2.6390145215925766e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.005660625649169215	Ruminococcus bromii	RS_degraders	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.01012353946163876	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.016186844480684078	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.004930802078302556	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.08221701504083506	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.02530752898151072	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	3.2831018746511706e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.006802778283334639	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.011883742862148316	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.002030522335035285	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.005411800057276996	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.005429452365981822	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.011279706335685015	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	4.418577586512748e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.001650123594731476	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.0925941106213	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.005095796720922293	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.008617473345921176	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	8.047082549996313e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	3.232964848511785e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	0.0011080372829816863	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	9.763708182289847e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
-U259	week3	BRMPS	Fall2016	39.01623931766667	NA	8.259362857666666	NA	3	0	4.0696383666484975e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.04026161728275438	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	4.0696383666484975e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.004452403680830546	Roseburia hominis	butyrogen_focused	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.017291017298489617	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.04026161728275438	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.011883742862148316	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.002030522335035285	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.006436977538288578	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.0034781761878800725	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	4.0833660510433635e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.001779390634547023	Coprococcus catus	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	4.0696383666484975e-4	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	7.797270955165693e-4	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	3.522615189516697e-5	Anaerofustis stercorihominis	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.004452403680830546	Roseburia hominis	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	2.6390145215925766e-4	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.005660625649169215	Ruminococcus bromii	RS_degraders	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.01012353946163876	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.016186844480684078	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.004930802078302556	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.08221701504083506	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.02530752898151072	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	3.2831018746511706e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.006802778283334639	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.011883742862148316	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.002030522335035285	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.005411800057276996	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.005429452365981822	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.011279706335685015	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	4.418577586512748e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.001650123594731476	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.0925941106213	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.005095796720922293	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.008617473345921176	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	8.047082549996313e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	3.232964848511785e-4	Alistipes indistinctus	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	0.0011080372829816863	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	9.763708182289847e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
+U259	week3	BRMPS	Fall2016	39.01623931766667	23.69055944	8.259362857666666	91.87062936999999	3	0	4.0696383666484975e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U261	week1	BRMPS	Fall2016	30.19770245	10.79431262	4.538719397333334	45.53073446733334	40.5	5	0.04960916258421142	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U261	week1	BRMPS	Fall2016	30.19770245	10.79431262	4.538719397333334	45.53073446733334	40.5	5	0.02148253498890907	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U261	week1	BRMPS	Fall2016	30.19770245	10.79431262	4.538719397333334	45.53073446733334	40.5	5	6.053964910221438e-4	Roseburia hominis	butyrogen_focused	Firmicutes
@@ -1456,41 +1456,41 @@ U276	week1	BRMPS	Fall2016	41.99019608	13.840032677666667	11.456590413333334	67.2
 U276	week1	BRMPS	Fall2016	41.99019608	13.840032677666667	11.456590413333334	67.286819171	27	2	0.008741764792472006	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
 U276	week1	BRMPS	Fall2016	41.99019608	13.840032677666667	11.456590413333334	67.286819171	27	2	0.0909968654854712	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
 U276	week1	BRMPS	Fall2016	41.99019608	13.840032677666667	11.456590413333334	67.286819171	27	2	0.02568772437514312	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0957729658870878	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.025053120429213926	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0028245840611523885	Roseburia faecis	butyrogen_focused	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.020146300086510967	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0957729658870878	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0055929696179838955	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.001782985226693836	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	2.2396416573348263e-4	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.003441668313597289	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	7.170160058509277e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.025053120429213926	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.007449490159047866	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.1543125024811786	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	3.3532281294493645e-4	Ruminococcus bromii	RS_degraders	Firmicutes
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.005062460510648403	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.012517893889720666	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	2.0773293695321537e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.02178694070397741	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.004863221884498482	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0195170119945629	Bacteroides eggerthii	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.01059690711782358	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0055929696179838955	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.001782985226693836	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	4.441606751242262e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.013209742094070531	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	6.398976163813789e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	2.2396416573348263e-4	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.06218095898378372	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	2.879539273716205e-4	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.0013713378961760412	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.12289644605423773	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	1.6656025317158483e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	2.236524479058389e-4	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	3.199488081906895e-4	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
-U276	week3	BRMPS	Fall2016	48.40030612333333	NA	8.239444444333333	NA	16.5	0	0.025053120429213926	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0957729658870878	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.025053120429213926	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0028245840611523885	Roseburia faecis	butyrogen_focused	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.020146300086510967	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0957729658870878	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0055929696179838955	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.001782985226693836	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	2.2396416573348263e-4	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.003441668313597289	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	7.170160058509277e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.025053120429213926	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.007449490159047866	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.1543125024811786	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	3.3532281294493645e-4	Ruminococcus bromii	RS_degraders	Firmicutes
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.005062460510648403	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.012517893889720666	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	2.0773293695321537e-4	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.02178694070397741	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.004863221884498482	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0195170119945629	Bacteroides eggerthii	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.01059690711782358	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0055929696179838955	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.001782985226693836	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	4.441606751242262e-4	Prevotella disiens	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.013209742094070531	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	6.398976163813789e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	2.2396416573348263e-4	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.06218095898378372	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	2.879539273716205e-4	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.0013713378961760412	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.12289644605423773	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	1.6656025317158483e-4	Prevotella timonensis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	2.236524479058389e-4	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	3.199488081906895e-4	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
+U276	week3	BRMPS	Fall2016	48.40030612333333	13.822040815000001	8.239444444333333	74.24	16.5	0	0.025053120429213926	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U277	week1	BRMPS+Accessible	Fall2016	31.987930149999997	10.0328710815	8.644581407	50.6653826385	16	1	0.008584534011673427	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U277	week1	BRMPS+Accessible	Fall2016	31.987930149999997	10.0328710815	8.644581407	50.6653826385	16	1	1.1146195523001004e-4	Roseburia hominis	butyrogen_focused	Firmicutes
 U277	week1	BRMPS+Accessible	Fall2016	31.987930149999997	10.0328710815	8.644581407	50.6653826385	16	1	0.01904960666646842	Roseburia faecis	butyrogen_focused	Firmicutes
@@ -1671,48 +1671,48 @@ U280	week1	BRMPS+Accessible	Fall2016	35.01068376333333	17.569978633666665	13.100
 U280	week1	BRMPS+Accessible	Fall2016	35.01068376333333	17.569978633666665	13.100427350666667	65.68108974766668	19	1.5	7.439489010461392e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
 U280	week1	BRMPS+Accessible	Fall2016	35.01068376333333	17.569978633666665	13.100427350666667	65.68108974766668	19	1.5	3.7669850665949145e-4	Gabonia	propionate_gen	Bacteroidetes <phylum>
 U280	week1	BRMPS+Accessible	Fall2016	35.01068376333333	17.569978633666665	13.100427350666667	65.68108974766668	19	1.5	5.611453927297789e-4	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.06480586989123681	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0016825827541661518	Roseburia hominis	butyrogen_focused	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0035530949531341633	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.06480586989123681	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	3.5132096683530073e-5	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.009578398060945402	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0050019891601618	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.00800693878939579	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.005561831743943593	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	9.303195662609617e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	7.026419336706015e-5	Anaerofustis stercorihominis	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0016825827541661518	Roseburia hominis	butyrogen_flint	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0173888129157442	Ruminococcus bromii	RS_degraders	Firmicutes
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.01685294776054404	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.09802680760615373	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.004410808942277292	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.11556387274345795	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.06930356022242816	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	1.7064118424981868e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.004388450832083985	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.009578398060945402	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0050019891601618	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.019277871084859625	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.020947575515398626	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.004048100347016523	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	2.1079258010118045e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	8.413769963208131e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.01012291396300003	Flavobacteriales	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	5.621135469364812e-4	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.004329822420778415	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0021278250037600707	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.020328843202302257	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0028329977420330807	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.00518509298418564	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.004217243405791139	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0031142016125591913	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	5.5064166069897e-4	Barnesiella	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	9.825480406766257e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.006695908015300578	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.0028023824173207773	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	0.001636559575027958	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
-U280	week3	BRMPS+Accessible	Fall2016	39.40463458	NA	7.8868092690000005	NA	2	0	1.1788927740999692e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.06480586989123681	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0016825827541661518	Roseburia hominis	butyrogen_focused	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0035530949531341633	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.06480586989123681	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	3.5132096683530073e-5	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.009578398060945402	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0050019891601618	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.00800693878939579	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.005561831743943593	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	9.303195662609617e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	7.026419336706015e-5	Anaerofustis stercorihominis	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0016825827541661518	Roseburia hominis	butyrogen_flint	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0173888129157442	Ruminococcus bromii	RS_degraders	Firmicutes
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.01685294776054404	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.09802680760615373	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.004410808942277292	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.11556387274345795	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.06930356022242816	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	1.7064118424981868e-4	Parabacteroides distasonis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.004388450832083985	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.009578398060945402	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0050019891601618	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.019277871084859625	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.020947575515398626	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.004048100347016523	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	2.1079258010118045e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	8.413769963208131e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.01012291396300003	Flavobacteriales	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	5.621135469364812e-4	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.004329822420778415	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0021278250037600707	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.020328843202302257	Bacteroides salyersiae	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0028329977420330807	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.00518509298418564	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.004217243405791139	Bacteroides dorei	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0031142016125591913	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	5.5064166069897e-4	Barnesiella	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	9.825480406766257e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.006695908015300578	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.0028023824173207773	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	0.001636559575027958	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
+U280	week3	BRMPS+Accessible	Fall2016	39.40463458	16.15686275	7.8868092690000005	55.921568631999996	2	0	1.1788927740999692e-4	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	0.09784822602109927	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	0.013371094740444914	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	0.002344066219074132	Roseburia hominis	butyrogen_focused	Firmicutes
@@ -1753,46 +1753,46 @@ U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.76207794
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	3.62087687656772e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	0.004909205558898373	Desulfovibrio	hydrogen_consumers	Proteobacteria
 U281	week1	Accessible	Fall2016	26.075088100000002	12.665913675666667	10.762077947333333	49.503079723	1	2	0.013371094740444914	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.06735941717822558	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.004723084923887845	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0022027971361816834	Roseburia hominis	butyrogen_focused	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.004709255790266196	Roseburia faecis	butyrogen_focused	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.010744985977461685	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.06735941717822558	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.014375970386125371	Holdemanella biformis	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.01861618023213446	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.019647214613627742	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0044923445533672154	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0010619929481148936	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0011521888594086525	Coprococcus catus	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.004723084923887845	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0022027971361816834	Roseburia hominis	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0011636711052543285	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	3.126384021562769e-4	Bifidobacterium animalis	RS_degraders	Actinobacteria <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.01936697592893667	Ruminococcus bromii	RS_degraders	Firmicutes
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	3.859981122916596e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.038059071857513366	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.007964559532924154	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.16385761305569296	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	2.5497195308516064e-5	Bacteroides eggerthii	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.011014220315365341	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.01861618023213446	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.01879993153373042	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	4.589495155532892e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	1.7133262515848269e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.06297274629969732	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.010537046920507784	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.007437699368799994	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	2.533954996959254e-4	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.009159488947048931	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.021606241200384596	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	9.880087511098274e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	7.649158592554819e-5	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.005686119495900234	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.0019645286707378187	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.006581160114508375	Desulfovibrio	hydrogen_consumers	Proteobacteria
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	6.475998994413293e-4	Methanobrevibacter smithii	hydrogen_consumers	Euryarchaeota
-U281	week3	Accessible	Fall2016	40.69655521666667	NA	9.802228977666667	NA	7	4.5	0.004723084923887845	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.06735941717822558	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.004723084923887845	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0022027971361816834	Roseburia hominis	butyrogen_focused	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.004709255790266196	Roseburia faecis	butyrogen_focused	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.010744985977461685	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.06735941717822558	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.014375970386125371	Holdemanella biformis	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.01861618023213446	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.019647214613627742	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0044923445533672154	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0010619929481148936	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0011521888594086525	Coprococcus catus	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.004723084923887845	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0022027971361816834	Roseburia hominis	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0011636711052543285	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	3.126384021562769e-4	Bifidobacterium animalis	RS_degraders	Actinobacteria <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.01936697592893667	Ruminococcus bromii	RS_degraders	Firmicutes
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	3.859981122916596e-4	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.038059071857513366	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.007964559532924154	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.16385761305569296	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	2.5497195308516064e-5	Bacteroides eggerthii	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.011014220315365341	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.01861618023213446	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.01879993153373042	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	4.589495155532892e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	1.7133262515848269e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.06297274629969732	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.010537046920507784	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.007437699368799994	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	2.533954996959254e-4	Bacteroides plebeius	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.009159488947048931	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.021606241200384596	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	9.880087511098274e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	7.649158592554819e-5	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.005686119495900234	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.0019645286707378187	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.006581160114508375	Desulfovibrio	hydrogen_consumers	Proteobacteria
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	6.475998994413293e-4	Methanobrevibacter smithii	hydrogen_consumers	Euryarchaeota
+U281	week3	Accessible	Fall2016	40.69655521666667	20.66861702	9.802228977666667	86.02393617	7	4.5	0.004723084923887845	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U282	week1	BRMPS	Fall2016	80.41075996000001	31.515893312333333	20.285562050000003	132.21221532233332	5.5	0	0.004633390632478233	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U282	week1	BRMPS	Fall2016	80.41075996000001	31.515893312333333	20.285562050000003	132.21221532233332	5.5	0	0.0011983223487118035	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U282	week1	BRMPS	Fall2016	80.41075996000001	31.515893312333333	20.285562050000003	132.21221532233332	5.5	0	0.007013139630880916	Anaerostipes hadrus	butyrogen_focused	Firmicutes
@@ -1877,45 +1877,45 @@ U283	week3	BRMPS+Accessible	Fall2016	40.08814772	11.293907844666666	7.8919092616
 U283	week3	BRMPS+Accessible	Fall2016	40.08814772	11.293907844666666	7.891909261666666	59.273964826333334	24	2	0.002200722267497105	Gabonia	propionate_gen	Bacteroidetes <phylum>
 U283	week3	BRMPS+Accessible	Fall2016	40.08814772	11.293907844666666	7.891909261666666	59.273964826333334	24	2	0.012070195587672757	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
 U283	week3	BRMPS+Accessible	Fall2016	40.08814772	11.293907844666666	7.891909261666666	59.273964826333334	24	2	0.005660342602696076	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.04479229363247182	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	6.511334161604822e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.00729579686288459	Roseburia hominis	butyrogen_focused	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.0027508001802782484	Roseburia faecis	butyrogen_focused	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.009529575823337926	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.04479229363247182	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.05895497969037936	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	9.021937306475168e-4	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.003584921297425261	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	4.2783398404853045e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.0012605535102890965	Coprococcus catus	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	6.511334161604822e-4	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	9.800709414086376e-5	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.00729579686288459	Roseburia hominis	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.002690173477220596	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.03872537182627416	Ruminococcus bromii	RS_degraders	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.010971915415175584	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.06799874530289557	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.0106072655293242	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.08994694123407798	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	1.9770171753367107e-4	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.040231807248015526	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.05895497969037936	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	9.021937306475168e-4	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	7.413814407512665e-5	Prevotella bivia	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.11708821831237733	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.015207055219694697	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	2.2241443222538e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.010476272712428354	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.01802144633930806	Alistipes	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.00892244232030085	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.04419563314828903	Barnesiella	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.0013717866367614546	Butyricimonas virosa	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	7.413814407512665e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.012463317076952684	Bacteroides rodentium	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.02471866551486256	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	0.004072428939203446	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	9.885085876683552e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
-U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	NA	16.70833333366667	NA	6	0	6.511334161604822e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.04479229363247182	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	6.511334161604822e-4	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.00729579686288459	Roseburia hominis	butyrogen_focused	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.0027508001802782484	Roseburia faecis	butyrogen_focused	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.009529575823337926	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.04479229363247182	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.05895497969037936	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	9.021937306475168e-4	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.003584921297425261	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	4.2783398404853045e-4	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.0012605535102890965	Coprococcus catus	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	6.511334161604822e-4	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	9.800709414086376e-5	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.00729579686288459	Roseburia hominis	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.002690173477220596	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.03872537182627416	Ruminococcus bromii	RS_degraders	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.010971915415175584	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.06799874530289557	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.0106072655293242	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.08994694123407798	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	1.9770171753367107e-4	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.040231807248015526	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.05895497969037936	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	9.021937306475168e-4	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	7.413814407512665e-5	Prevotella bivia	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.11708821831237733	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.015207055219694697	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	2.2241443222538e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.010476272712428354	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.01802144633930806	Alistipes	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.00892244232030085	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.04419563314828903	Barnesiella	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.0013717866367614546	Butyricimonas virosa	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	7.413814407512665e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.012463317076952684	Bacteroides rodentium	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.02471866551486256	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	0.004072428939203446	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	9.885085876683552e-5	Blautia hydrogenotrophica	hydrogen_consumers	Firmicutes
+U284	week1	BRMPS+Accessible	Fall2016	45.36858974333333	5.298076923	16.70833333366667	55.131410256500004	6	0	6.511334161604822e-4	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U284	week3	BRMPS+Accessible	Fall2016	33.03211882666667	13.373937073333334	8.947057083666667	55.35311298366667	9	0	0.07264383203954261	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U284	week3	BRMPS+Accessible	Fall2016	33.03211882666667	13.373937073333334	8.947057083666667	55.35311298366667	9	0	0.00113376686460798	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U284	week3	BRMPS+Accessible	Fall2016	33.03211882666667	13.373937073333334	8.947057083666667	55.35311298366667	9	0	0.0034364575274386288	Roseburia hominis	butyrogen_focused	Firmicutes
@@ -2073,34 +2073,34 @@ U288	week1	Accessible	Fall2016	73.21752412333333	21.936344086666665	13.048436725
 U288	week1	Accessible	Fall2016	73.21752412333333	21.936344086666665	13.048436725666667	108.20230493566666	24	2.5	0.009409993499765757	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
 U288	week1	Accessible	Fall2016	73.21752412333333	21.936344086666665	13.048436725666667	108.20230493566666	24	2.5	0.00472949952871145	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
 U288	week1	Accessible	Fall2016	73.21752412333333	21.936344086666665	13.048436725666667	108.20230493566666	24	2.5	0.038763752804516084	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.04384427448600146	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.04103395429426635	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.008548045331053453	Roseburia faecis	butyrogen_focused	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.010557812036028869	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.04384427448600146	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.003476891138505625	Fusobacterium ulcerans	butyrogen_flint	Fusobacteria <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	4.6359449668734767e-4	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	6.937699458859442e-5	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.003306925017623345	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.04103395429426635	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.0013528513944775912	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.015699015163464725	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.003859027737341081	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.023755707796312624	Ruminococcus bromii	RS_degraders	Firmicutes
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.008503198083589472	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.2183115837737855	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.007421465064886034	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.06694288300151724	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.22318219407474651	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	3.1219647564867484e-4	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	7.284584431802414e-4	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	6.937699458859442e-5	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	2.195999614308512e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	3.7922336184443705e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	3.280841058003138e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.0072476434201153685	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.004341753462470223	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U288	week3	Accessible	Fall2016	27.81426392	NA	15.51754386	NA	28.5	2.5	0.04103395429426635	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.04384427448600146	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.04103395429426635	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.008548045331053453	Roseburia faecis	butyrogen_focused	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.010557812036028869	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.04384427448600146	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.003476891138505625	Fusobacterium ulcerans	butyrogen_flint	Fusobacteria <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	4.6359449668734767e-4	[Clostridium] symbiosum	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	6.937699458859442e-5	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.003306925017623345	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.04103395429426635	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.0013528513944775912	Anaerotruncus colihominis	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.015699015163464725	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.003859027737341081	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.023755707796312624	Ruminococcus bromii	RS_degraders	Firmicutes
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.008503198083589472	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.2183115837737855	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.007421465064886034	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.06694288300151724	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.22318219407474651	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	3.1219647564867484e-4	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	7.284584431802414e-4	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	6.937699458859442e-5	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	2.195999614308512e-4	Bacteroides stercoris	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	3.7922336184443705e-4	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	3.280841058003138e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.0072476434201153685	Bacteroides intestinalis	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.004341753462470223	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U288	week3	Accessible	Fall2016	27.81426392	8.52173913	15.51754386	60.86956522	28.5	2.5	0.04103395429426635	Roseburia intestinalis	hydrogen_gen	Firmicutes
 U290	week1	Accessible	Fall2016	35.04494488666667	16.173515846666668	7.044464070666667	58.262924804	6.5	3	0.08383981803743328	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
 U290	week1	Accessible	Fall2016	35.04494488666667	16.173515846666668	7.044464070666667	58.262924804	6.5	3	0.002032318802824683	Roseburia intestinalis	butyrogen_focused	Firmicutes
 U290	week1	Accessible	Fall2016	35.04494488666667	16.173515846666668	7.044464070666667	58.262924804	6.5	3	0.022956252969807647	Anaerostipes hadrus	butyrogen_focused	Firmicutes
@@ -2535,47 +2535,47 @@ U301	week1	BRMPS+Accessible	Fall2016	64.45494477	22.573013767	7.066455889666667	
 U301	week1	BRMPS+Accessible	Fall2016	64.45494477	22.573013767	7.066455889666667	94.09441442666667	28	4	0.011832671003403709	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
 U301	week1	BRMPS+Accessible	Fall2016	64.45494477	22.573013767	7.066455889666667	94.09441442666667	28	4	3.9463018902176263e-4	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
 U301	week1	BRMPS+Accessible	Fall2016	64.45494477	22.573013767	7.066455889666667	94.09441442666667	28	4	0.004159277234824436	Roseburia intestinalis	hydrogen_gen	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.05586803557651435	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.00546658513167731	Roseburia intestinalis	butyrogen_focused	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	7.682100997909412e-4	Roseburia hominis	butyrogen_focused	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.01536595836109226	Roseburia faecis	butyrogen_focused	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.004328277971109237	Anaerostipes hadrus	butyrogen_focused	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.05586803557651435	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.015920813310044264	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0017766603102253489	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.013745679504739941	Coprococcus eutactus	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0028319091948994656	[Eubacterium] hallii	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0012646598225320648	Eubacterium ventriosum	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0015294540050777214	Coprococcus catus	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.00546658513167731	Roseburia intestinalis	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	7.682100997909412e-4	Roseburia hominis	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.013824613215420369	Roseburia inulinivorans	butyrogen_flint	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.04949241238865015	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.00687167817835909	Ruminococcus bromii	RS_degraders	Firmicutes
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.001753543220206459	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.019461759332123272	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.003485137076808701	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.07018325243723962	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.05906461477981445	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	9.609840476648089e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.001514656521427321	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.015920813310044264	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0017766603102253489	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.012779120954997664	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	5.06855216807319e-5	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	9.609840476648089e-5	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	1.1715470394516692e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.029899085711847476	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	3.154663508558287e-4	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.008062533623887083	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	1.2275932525559254e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0074717476808082075	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	6.967069204149697e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.02142064532949941	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0018443017390177988	Coprobacter fastidiosus	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.0021343548836606253	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	5.641612718196832e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	6.329187930938796e-4	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.02961839137984362	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	2.534276084036595e-5	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
-U301	week3	BRMPS+Accessible	Fall2016	NA	24.4505698	15.286752136666667	NA	6.5	0	0.00546658513167731	Roseburia intestinalis	hydrogen_gen	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.05586803557651435	Faecalibacterium prausnitzii	butyrogen_focused	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.00546658513167731	Roseburia intestinalis	butyrogen_focused	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	7.682100997909412e-4	Roseburia hominis	butyrogen_focused	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.01536595836109226	Roseburia faecis	butyrogen_focused	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.004328277971109237	Anaerostipes hadrus	butyrogen_focused	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.05586803557651435	Faecalibacterium prausnitzii	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.015920813310044264	Alistipes putredinis	butyrogen_flint	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0017766603102253489	Odoribacter splanchnicus	butyrogen_flint	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.013745679504739941	Coprococcus eutactus	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0028319091948994656	[Eubacterium] hallii	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0012646598225320648	Eubacterium ventriosum	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0015294540050777214	Coprococcus catus	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.00546658513167731	Roseburia intestinalis	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	7.682100997909412e-4	Roseburia hominis	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.013824613215420369	Roseburia inulinivorans	butyrogen_flint	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.04949241238865015	Bifidobacterium	RS_degraders	Actinobacteria <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.00687167817835909	Ruminococcus bromii	RS_degraders	Firmicutes
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.001753543220206459	Bifidobacterium longum	RS_degraders	Actinobacteria <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.019461759332123272	Bacteroides <genus>	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.003485137076808701	Bacteroides fragilis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.07018325243723962	Bacteroides uniformis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.05906461477981445	Bacteroides vulgatus	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	9.609840476648089e-5	Prevotella	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.001514656521427321	Bacteroides ovatus	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.015920813310044264	Alistipes putredinis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0017766603102253489	Odoribacter splanchnicus	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.012779120954997664	Parabacteroides merdae	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	5.06855216807319e-5	Bacteroides caccae	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	9.609840476648089e-5	Prevotella copri	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	1.1715470394516692e-4	Bacteroidales	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.029899085711847476	Bacteroides massiliensis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	3.154663508558287e-4	Alistipes finegoldii	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.008062533623887083	Alistipes shahii	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	1.2275932525559254e-4	Parabacteroides	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0074717476808082075	Barnesiella intestinihominis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	6.967069204149697e-4	Butyricimonas	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.02142064532949941	Paraprevotella	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0018443017390177988	Coprobacter fastidiosus	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.0021343548836606253	Alistipes obesi	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	5.641612718196832e-4	Alistipes ihumii	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	6.329187930938796e-4	Butyricimonas faecihominis	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.02961839137984362	Muribaculaceae	propionate_gen	Bacteroidetes <phylum>
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	2.534276084036595e-5	Desulfovibrio fairfieldensis	hydrogen_consumers	Proteobacteria
+U301	week3	BRMPS+Accessible	Fall2016	49.033333335	24.4505698	15.286752136666667	81.51111111	6.5	0	0.00546658513167731	Roseburia intestinalis	hydrogen_gen	Firmicutes
